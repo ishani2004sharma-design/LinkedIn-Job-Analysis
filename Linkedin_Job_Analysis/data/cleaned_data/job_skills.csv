@@ -1,0 +1,2892 @@
+job_id,skill,skill_category,skill_type
+4446724293,SQL,Programming,Technical
+4446724293,Power BI,BI & Visualization,Technical
+4446724293,Tableau,BI & Visualization,Technical
+4446724293,Stakeholder Management,Soft Skill,Soft
+4433474003,Python,Programming,Technical
+4433474003,SQL,Programming,Technical
+4433474003,Excel,BI & Visualization,Technical
+4433474003,Power BI,BI & Visualization,Technical
+4433474003,Tableau,BI & Visualization,Technical
+4433474003,Data Modeling,Data Engineering,Technical
+4433474003,Communication,Soft Skill,Soft
+4433474003,Problem Solving,Soft Skill,Soft
+4433474003,Stakeholder Management,Soft Skill,Soft
+4471438516,Python,Programming,Technical
+4471438516,SQL,Programming,Technical
+4471438516,Excel,BI & Visualization,Technical
+4471438516,Statistics,Data Science & ML,Technical
+4471438516,ETL,Data Engineering,Technical
+4471438516,Communication,Soft Skill,Soft
+4459008614,Python,Programming,Technical
+4459008614,SQL,Programming,Technical
+4459008614,Power BI,BI & Visualization,Technical
+4459008614,Tableau,BI & Visualization,Technical
+4459008614,Data Visualization,BI & Visualization,Technical
+4459008614,AWS,Cloud & DevOps,Technical
+4459008614,Azure,Cloud & DevOps,Technical
+4459008614,Agile,Methods & Collaboration,Technical
+4459008614,Communication,Soft Skill,Soft
+4459008614,Stakeholder Management,Soft Skill,Soft
+4446587231,SQL,Programming,Technical
+4446587231,Power BI,BI & Visualization,Technical
+4446587231,Tableau,BI & Visualization,Technical
+4446587231,Stakeholder Management,Soft Skill,Soft
+4464180139,Python,Programming,Technical
+4464180139,SQL,Programming,Technical
+4464180139,Power BI,BI & Visualization,Technical
+4464180139,Statistics,Data Science & ML,Technical
+4464180139,Data Visualization,BI & Visualization,Technical
+4464180139,Stakeholder Management,Soft Skill,Soft
+4450904476,Python,Programming,Technical
+4450904476,SQL,Programming,Technical
+4450904476,Excel,BI & Visualization,Technical
+4450904476,Power BI,BI & Visualization,Technical
+4450904476,Tableau,BI & Visualization,Technical
+4450904476,GCP,Cloud & DevOps,Technical
+4450904476,Stakeholder Management,Soft Skill,Soft
+4471926075,Python,Programming,Technical
+4471926075,SQL,Programming,Technical
+4471926075,Power BI,BI & Visualization,Technical
+4471926075,DAX,BI & Visualization,Technical
+4471926075,Tableau,BI & Visualization,Technical
+4471926075,Qlik,BI & Visualization,Technical
+4471926075,Statistics,Data Science & ML,Technical
+4471926075,AWS,Cloud & DevOps,Technical
+4471926075,Azure,Cloud & DevOps,Technical
+4471926075,Agile,Methods & Collaboration,Technical
+4402544578,Python,Programming,Technical
+4402544578,SQL,Programming,Technical
+4402544578,Pandas,Data Science & ML,Technical
+4402544578,Machine Learning,Data Science & ML,Technical
+4402544578,NLP,Data Science & ML,Technical
+4402544578,GenAI / LLM,Data Science & ML,Technical
+4402544578,Statistics,Data Science & ML,Technical
+4402544578,Spark,Data Engineering,Technical
+4402544578,Communication,Soft Skill,Soft
+4402544578,Stakeholder Management,Soft Skill,Soft
+4401827969,Python,Programming,Technical
+4401827969,SQL,Programming,Technical
+4401827969,Power BI,BI & Visualization,Technical
+4401827969,Tableau,BI & Visualization,Technical
+4401827969,Machine Learning,Data Science & ML,Technical
+4401827969,Statistics,Data Science & ML,Technical
+4401827969,Data Visualization,BI & Visualization,Technical
+4401827969,Data Modeling,Data Engineering,Technical
+4401827969,AWS,Cloud & DevOps,Technical
+4401827969,Azure,Cloud & DevOps,Technical
+4401827969,GCP,Cloud & DevOps,Technical
+4401827969,Communication,Soft Skill,Soft
+4401827969,Problem Solving,Soft Skill,Soft
+4401827969,Stakeholder Management,Soft Skill,Soft
+4475050785,Data Warehousing,Data Engineering,Technical
+4475050785,GCP,Cloud & DevOps,Technical
+4415527312,SQL,Programming,Technical
+4415527312,Power BI,BI & Visualization,Technical
+4415527312,Qlik,BI & Visualization,Technical
+4415527312,Statistics,Data Science & ML,Technical
+4415527312,Data Visualization,BI & Visualization,Technical
+4415527312,Stakeholder Management,Soft Skill,Soft
+4471729076,Python,Programming,Technical
+4471729076,SQL,Programming,Technical
+4471729076,Power BI,BI & Visualization,Technical
+4471729076,Tableau,BI & Visualization,Technical
+4471729076,Statistics,Data Science & ML,Technical
+4471729076,Data Visualization,BI & Visualization,Technical
+4471729076,Data Warehousing,Data Engineering,Technical
+4471729076,Snowflake,Data Engineering,Technical
+4471729076,Communication,Soft Skill,Soft
+4471729076,Problem Solving,Soft Skill,Soft
+4471729076,Stakeholder Management,Soft Skill,Soft
+4447792703,Python,Programming,Technical
+4447792703,SQL,Programming,Technical
+4447792703,Excel,BI & Visualization,Technical
+4447792703,Power BI,BI & Visualization,Technical
+4453205137,Python,Programming,Technical
+4453205137,SQL,Programming,Technical
+4453205137,Power BI,BI & Visualization,Technical
+4453205137,Tableau,BI & Visualization,Technical
+4453205137,Pandas,Data Science & ML,Technical
+4453205137,Statistics,Data Science & ML,Technical
+4453205137,Spark,Data Engineering,Technical
+4453205137,Databricks,Data Engineering,Technical
+4453205137,Snowflake,Data Engineering,Technical
+4453205137,Agile,Methods & Collaboration,Technical
+4453205137,Jira,Methods & Collaboration,Technical
+4453205137,Communication,Soft Skill,Soft
+4453205137,Stakeholder Management,Soft Skill,Soft
+4463384698,SQL,Programming,Technical
+4463384698,Power BI,BI & Visualization,Technical
+4463384698,Tableau,BI & Visualization,Technical
+4463384698,Looker,BI & Visualization,Technical
+4463384698,Machine Learning,Data Science & ML,Technical
+4463384698,Statistics,Data Science & ML,Technical
+4463384698,Data Visualization,BI & Visualization,Technical
+4463384698,Communication,Soft Skill,Soft
+4463384698,Problem Solving,Soft Skill,Soft
+4463384698,Stakeholder Management,Soft Skill,Soft
+4452986284,Python,Programming,Technical
+4452986284,SQL,Programming,Technical
+4452986284,Power BI,BI & Visualization,Technical
+4452986284,Tableau,BI & Visualization,Technical
+4452986284,Pandas,Data Science & ML,Technical
+4452986284,Statistics,Data Science & ML,Technical
+4452986284,Spark,Data Engineering,Technical
+4452986284,Databricks,Data Engineering,Technical
+4452986284,Snowflake,Data Engineering,Technical
+4452986284,Agile,Methods & Collaboration,Technical
+4452986284,Jira,Methods & Collaboration,Technical
+4452986284,Communication,Soft Skill,Soft
+4452986284,Stakeholder Management,Soft Skill,Soft
+4468904716,Python,Programming,Technical
+4468904716,SQL,Programming,Technical
+4468904716,Power BI,BI & Visualization,Technical
+4468904716,Tableau,BI & Visualization,Technical
+4468904716,Looker,BI & Visualization,Technical
+4468904716,Problem Solving,Soft Skill,Soft
+4468904716,Stakeholder Management,Soft Skill,Soft
+4472582494,Python,Programming,Technical
+4472582494,SQL,Programming,Technical
+4472582494,Power BI,BI & Visualization,Technical
+4472582494,Tableau,BI & Visualization,Technical
+4472582494,Qlik,BI & Visualization,Technical
+4472582494,Spark,Data Engineering,Technical
+4472582494,Problem Solving,Soft Skill,Soft
+4472582494,Stakeholder Management,Soft Skill,Soft
+4470164317,SQL,Programming,Technical
+4470164317,Excel,BI & Visualization,Technical
+4470164317,Power BI,BI & Visualization,Technical
+4470164317,Tableau,BI & Visualization,Technical
+4470164317,Data Visualization,BI & Visualization,Technical
+4470164317,Data Modeling,Data Engineering,Technical
+4470164317,Communication,Soft Skill,Soft
+4470164317,Problem Solving,Soft Skill,Soft
+4470164317,Stakeholder Management,Soft Skill,Soft
+4473511488,Python,Programming,Technical
+4473511488,SQL,Programming,Technical
+4473511488,Tableau,BI & Visualization,Technical
+4473511488,Data Modeling,Data Engineering,Technical
+4473511488,dbt,Data Engineering,Technical
+4473511488,AWS,Cloud & DevOps,Technical
+4473511488,Azure,Cloud & DevOps,Technical
+4473511488,GCP,Cloud & DevOps,Technical
+4473511488,Stakeholder Management,Soft Skill,Soft
+4463257054,Python,Programming,Technical
+4463257054,SQL,Programming,Technical
+4463257054,Excel,BI & Visualization,Technical
+4463257054,Power BI,BI & Visualization,Technical
+4463257054,Tableau,BI & Visualization,Technical
+4463257054,Machine Learning,Data Science & ML,Technical
+4463257054,Statistics,Data Science & ML,Technical
+4463257054,Data Visualization,BI & Visualization,Technical
+4463257054,Data Modeling,Data Engineering,Technical
+4463257054,ETL,Data Engineering,Technical
+4463257054,Spark,Data Engineering,Technical
+4463257054,Hadoop,Data Engineering,Technical
+4463257054,Problem Solving,Soft Skill,Soft
+4463257054,Stakeholder Management,Soft Skill,Soft
+4441639473,Python,Programming,Technical
+4441639473,SQL,Programming,Technical
+4441639473,Power BI,BI & Visualization,Technical
+4441639473,Tableau,BI & Visualization,Technical
+4441639473,Looker,BI & Visualization,Technical
+4441639473,Pandas,Data Science & ML,Technical
+4441639473,NumPy,Data Science & ML,Technical
+4441639473,GenAI / LLM,Data Science & ML,Technical
+4441639473,Statistics,Data Science & ML,Technical
+4441639473,ETL,Data Engineering,Technical
+4441639473,Airflow,Data Engineering,Technical
+4441639473,dbt,Data Engineering,Technical
+4441639473,Communication,Soft Skill,Soft
+4441639473,Stakeholder Management,Soft Skill,Soft
+4460007334,Python,Programming,Technical
+4460007334,SQL,Programming,Technical
+4460007334,R,Programming,Technical
+4460007334,Excel,BI & Visualization,Technical
+4460007334,Power BI,BI & Visualization,Technical
+4460007334,Tableau,BI & Visualization,Technical
+4460007334,Statistics,Data Science & ML,Technical
+4460007334,Data Visualization,BI & Visualization,Technical
+4460007334,Data Modeling,Data Engineering,Technical
+4460007334,Communication,Soft Skill,Soft
+4460007334,Stakeholder Management,Soft Skill,Soft
+4469686664,SQL,Programming,Technical
+4469686664,Excel,BI & Visualization,Technical
+4469686664,Power BI,BI & Visualization,Technical
+4469686664,Machine Learning,Data Science & ML,Technical
+4469686664,Statistics,Data Science & ML,Technical
+4469686664,Communication,Soft Skill,Soft
+4469686664,Stakeholder Management,Soft Skill,Soft
+4401834757,Python,Programming,Technical
+4401834757,SQL,Programming,Technical
+4401834757,Tableau,BI & Visualization,Technical
+4401834757,Machine Learning,Data Science & ML,Technical
+4401834757,Data Visualization,BI & Visualization,Technical
+4401834757,Data Modeling,Data Engineering,Technical
+4401834757,Data Warehousing,Data Engineering,Technical
+4401834757,ETL,Data Engineering,Technical
+4401834757,Databricks,Data Engineering,Technical
+4401834757,AWS,Cloud & DevOps,Technical
+4401834757,Azure,Cloud & DevOps,Technical
+4401834757,GCP,Cloud & DevOps,Technical
+4401834757,Agile,Methods & Collaboration,Technical
+4401834757,Communication,Soft Skill,Soft
+4401834757,Problem Solving,Soft Skill,Soft
+4401834757,Stakeholder Management,Soft Skill,Soft
+4470900316,SQL,Programming,Technical
+4470900316,Power BI,BI & Visualization,Technical
+4470900316,Tableau,BI & Visualization,Technical
+4470900316,Data Visualization,BI & Visualization,Technical
+4470900316,Data Warehousing,Data Engineering,Technical
+4470900316,Snowflake,Data Engineering,Technical
+4470900316,Jira,Methods & Collaboration,Technical
+4470900316,Communication,Soft Skill,Soft
+4470900316,Problem Solving,Soft Skill,Soft
+4470900316,Stakeholder Management,Soft Skill,Soft
+4466903249,SQL,Programming,Technical
+4466903249,Excel,BI & Visualization,Technical
+4466903249,Power BI,BI & Visualization,Technical
+4466903249,Data Visualization,BI & Visualization,Technical
+4466903249,Data Warehousing,Data Engineering,Technical
+4466903249,Communication,Soft Skill,Soft
+4466903249,Stakeholder Management,Soft Skill,Soft
+4471340471,Python,Programming,Technical
+4471340471,SQL,Programming,Technical
+4471340471,Looker,BI & Visualization,Technical
+4471340471,GCP,Cloud & DevOps,Technical
+4471340471,Problem Solving,Soft Skill,Soft
+4350632640,Python,Programming,Technical
+4350632640,SQL,Programming,Technical
+4350632640,R,Programming,Technical
+4350632640,Power BI,BI & Visualization,Technical
+4350632640,Tableau,BI & Visualization,Technical
+4350632640,Machine Learning,Data Science & ML,Technical
+4350632640,Statistics,Data Science & ML,Technical
+4350632640,Data Visualization,BI & Visualization,Technical
+4350632640,Communication,Soft Skill,Soft
+4350632640,Stakeholder Management,Soft Skill,Soft
+4463392310,Excel,BI & Visualization,Technical
+4463392310,Power BI,BI & Visualization,Technical
+4463392310,Tableau,BI & Visualization,Technical
+4463392310,Data Visualization,BI & Visualization,Technical
+4463392310,Communication,Soft Skill,Soft
+4463392310,Problem Solving,Soft Skill,Soft
+4463392310,Stakeholder Management,Soft Skill,Soft
+4473803136,Python,Programming,Technical
+4473803136,SQL,Programming,Technical
+4473803136,Excel,BI & Visualization,Technical
+4473803136,Power BI,BI & Visualization,Technical
+4473803136,Tableau,BI & Visualization,Technical
+4473803136,Statistics,Data Science & ML,Technical
+4473803136,Data Visualization,BI & Visualization,Technical
+4473803136,Communication,Soft Skill,Soft
+4473803136,Problem Solving,Soft Skill,Soft
+4473803136,Stakeholder Management,Soft Skill,Soft
+4471376875,Python,Programming,Technical
+4471376875,SQL,Programming,Technical
+4471376875,Power BI,BI & Visualization,Technical
+4471376875,Tableau,BI & Visualization,Technical
+4471376875,Pandas,Data Science & ML,Technical
+4471376875,NumPy,Data Science & ML,Technical
+4471376875,NLP,Data Science & ML,Technical
+4471376875,Statistics,Data Science & ML,Technical
+4471376875,Data Visualization,BI & Visualization,Technical
+4471376875,Spark,Data Engineering,Technical
+4471376875,GCP,Cloud & DevOps,Technical
+4471376875,Stakeholder Management,Soft Skill,Soft
+4204758032,Python,Programming,Technical
+4204758032,SQL,Programming,Technical
+4204758032,R,Programming,Technical
+4204758032,Excel,BI & Visualization,Technical
+4204758032,Power BI,BI & Visualization,Technical
+4204758032,Communication,Soft Skill,Soft
+4204758032,Problem Solving,Soft Skill,Soft
+4204758032,Stakeholder Management,Soft Skill,Soft
+4467358210,SQL,Programming,Technical
+4467358210,Data Modeling,Data Engineering,Technical
+4467358210,Data Warehousing,Data Engineering,Technical
+4467358210,Databricks,Data Engineering,Technical
+4467358210,Azure,Cloud & DevOps,Technical
+4467358210,Communication,Soft Skill,Soft
+4467358210,Problem Solving,Soft Skill,Soft
+4467358210,Stakeholder Management,Soft Skill,Soft
+4204753514,Python,Programming,Technical
+4204753514,SQL,Programming,Technical
+4204753514,R,Programming,Technical
+4204753514,Excel,BI & Visualization,Technical
+4204753514,Power BI,BI & Visualization,Technical
+4204753514,Communication,Soft Skill,Soft
+4204753514,Problem Solving,Soft Skill,Soft
+4204753514,Stakeholder Management,Soft Skill,Soft
+4449253926,SQL,Programming,Technical
+4449253926,Excel,BI & Visualization,Technical
+4449253926,Power BI,BI & Visualization,Technical
+4449253926,Tableau,BI & Visualization,Technical
+4449253926,Statistics,Data Science & ML,Technical
+4449253926,Data Visualization,BI & Visualization,Technical
+4449253926,Problem Solving,Soft Skill,Soft
+4470065910,Python,Programming,Technical
+4470065910,SQL,Programming,Technical
+4470065910,Excel,BI & Visualization,Technical
+4470065910,Power BI,BI & Visualization,Technical
+4470065910,Tableau,BI & Visualization,Technical
+4470065910,Machine Learning,Data Science & ML,Technical
+4470065910,Statistics,Data Science & ML,Technical
+4470065910,Data Visualization,BI & Visualization,Technical
+4470065910,Data Modeling,Data Engineering,Technical
+4470065910,Communication,Soft Skill,Soft
+4470065910,Problem Solving,Soft Skill,Soft
+4470065910,Stakeholder Management,Soft Skill,Soft
+4429793411,SQL,Programming,Technical
+4429793411,ETL,Data Engineering,Technical
+4471373647,Python,Programming,Technical
+4471373647,SQL,Programming,Technical
+4471373647,Excel,BI & Visualization,Technical
+4471373647,Power BI,BI & Visualization,Technical
+4471373647,Tableau,BI & Visualization,Technical
+4471373647,Statistics,Data Science & ML,Technical
+4471373647,Data Visualization,BI & Visualization,Technical
+4471373647,Data Modeling,Data Engineering,Technical
+4471373647,Communication,Soft Skill,Soft
+4471373647,Problem Solving,Soft Skill,Soft
+4471373647,Stakeholder Management,Soft Skill,Soft
+4472623335,Python,Programming,Technical
+4472623335,SQL,Programming,Technical
+4472623335,R,Programming,Technical
+4472623335,Power BI,BI & Visualization,Technical
+4472623335,Tableau,BI & Visualization,Technical
+4472623335,Looker,BI & Visualization,Technical
+4472623335,Statistics,Data Science & ML,Technical
+4472623335,Data Visualization,BI & Visualization,Technical
+4472623335,Data Modeling,Data Engineering,Technical
+4472623335,Communication,Soft Skill,Soft
+4472623335,Stakeholder Management,Soft Skill,Soft
+4465407644,SQL,Programming,Technical
+4465407644,JavaScript,Programming,Technical
+4465407644,Excel,BI & Visualization,Technical
+4465407644,Statistics,Data Science & ML,Technical
+4465407644,Data Modeling,Data Engineering,Technical
+4465407644,ETL,Data Engineering,Technical
+4465407644,Communication,Soft Skill,Soft
+4462964424,Python,Programming,Technical
+4462964424,SQL,Programming,Technical
+4462964424,R,Programming,Technical
+4462964424,Excel,BI & Visualization,Technical
+4462964424,Power BI,BI & Visualization,Technical
+4462964424,Tableau,BI & Visualization,Technical
+4462964424,Data Visualization,BI & Visualization,Technical
+4462964424,Data Modeling,Data Engineering,Technical
+4462964424,ETL,Data Engineering,Technical
+4462964424,Problem Solving,Soft Skill,Soft
+4462964424,Stakeholder Management,Soft Skill,Soft
+4464768550,Python,Programming,Technical
+4464768550,SQL,Programming,Technical
+4464768550,Power BI,BI & Visualization,Technical
+4464768550,Tableau,BI & Visualization,Technical
+4464768550,Pandas,Data Science & ML,Technical
+4464768550,NumPy,Data Science & ML,Technical
+4464768550,Statistics,Data Science & ML,Technical
+4464768550,Data Visualization,BI & Visualization,Technical
+4464768550,Data Warehousing,Data Engineering,Technical
+4464768550,ETL,Data Engineering,Technical
+4464768550,AWS,Cloud & DevOps,Technical
+4464768550,Azure,Cloud & DevOps,Technical
+4464768550,GCP,Cloud & DevOps,Technical
+4464768550,Communication,Soft Skill,Soft
+4464768550,Problem Solving,Soft Skill,Soft
+4464768550,Stakeholder Management,Soft Skill,Soft
+4470864626,Python,Programming,Technical
+4470864626,SQL,Programming,Technical
+4470864626,Power BI,BI & Visualization,Technical
+4470864626,Tableau,BI & Visualization,Technical
+4470864626,ETL,Data Engineering,Technical
+4470864626,Spark,Data Engineering,Technical
+4470864626,Databricks,Data Engineering,Technical
+4467173741,Statistics,Data Science & ML,Technical
+4467173741,Data Visualization,BI & Visualization,Technical
+4467173741,Data Modeling,Data Engineering,Technical
+4467169781,Statistics,Data Science & ML,Technical
+4467169781,Data Visualization,BI & Visualization,Technical
+4467169781,Data Modeling,Data Engineering,Technical
+4469707366,Python,Programming,Technical
+4469707366,SQL,Programming,Technical
+4469707366,Excel,BI & Visualization,Technical
+4469707366,Power BI,BI & Visualization,Technical
+4469707366,Tableau,BI & Visualization,Technical
+4469707366,Looker,BI & Visualization,Technical
+4469707366,Statistics,Data Science & ML,Technical
+4469707366,dbt,Data Engineering,Technical
+4381965860,Python,Programming,Technical
+4381965860,SQL,Programming,Technical
+4381965860,Power BI,BI & Visualization,Technical
+4381965860,Data Visualization,BI & Visualization,Technical
+4381965860,Data Warehousing,Data Engineering,Technical
+4381965860,ETL,Data Engineering,Technical
+4381965860,Communication,Soft Skill,Soft
+4381965860,Problem Solving,Soft Skill,Soft
+4474384855,SQL,Programming,Technical
+4474384855,Excel,BI & Visualization,Technical
+4474384855,Power BI,BI & Visualization,Technical
+4474384855,Tableau,BI & Visualization,Technical
+4474384855,Looker,BI & Visualization,Technical
+4474384855,Qlik,BI & Visualization,Technical
+4474384855,Data Modeling,Data Engineering,Technical
+4474384855,Communication,Soft Skill,Soft
+4474384855,Stakeholder Management,Soft Skill,Soft
+4472003067,SQL,Programming,Technical
+4472003067,Excel,BI & Visualization,Technical
+4472003067,Stakeholder Management,Soft Skill,Soft
+4435138039,Python,Programming,Technical
+4435138039,SQL,Programming,Technical
+4435138039,Power BI,BI & Visualization,Technical
+4435138039,DAX,BI & Visualization,Technical
+4435138039,Pandas,Data Science & ML,Technical
+4435138039,NumPy,Data Science & ML,Technical
+4435138039,Data Modeling,Data Engineering,Technical
+4435138039,Snowflake,Data Engineering,Technical
+4435138039,Communication,Soft Skill,Soft
+4435138039,Problem Solving,Soft Skill,Soft
+4435138039,Stakeholder Management,Soft Skill,Soft
+4466179757,Python,Programming,Technical
+4466179757,SQL,Programming,Technical
+4466179757,Excel,BI & Visualization,Technical
+4466179757,Power BI,BI & Visualization,Technical
+4466179757,Tableau,BI & Visualization,Technical
+4466179757,Looker,BI & Visualization,Technical
+4466179757,Statistics,Data Science & ML,Technical
+4466179757,Data Visualization,BI & Visualization,Technical
+4466179757,Communication,Soft Skill,Soft
+4466179757,Problem Solving,Soft Skill,Soft
+4466179757,Stakeholder Management,Soft Skill,Soft
+4469446623,SQL,Programming,Technical
+4469446623,Excel,BI & Visualization,Technical
+4469446623,Power BI,BI & Visualization,Technical
+4469446623,Tableau,BI & Visualization,Technical
+4469446623,GenAI / LLM,Data Science & ML,Technical
+4469446623,Communication,Soft Skill,Soft
+4469446623,Problem Solving,Soft Skill,Soft
+4474534286,Python,Programming,Technical
+4474534286,SQL,Programming,Technical
+4474534286,Power BI,BI & Visualization,Technical
+4474534286,Tableau,BI & Visualization,Technical
+4474534286,Statistics,Data Science & ML,Technical
+4474534286,Databricks,Data Engineering,Technical
+4474534286,Azure,Cloud & DevOps,Technical
+4474534286,Problem Solving,Soft Skill,Soft
+4474534286,Stakeholder Management,Soft Skill,Soft
+4471449747,Python,Programming,Technical
+4471449747,SQL,Programming,Technical
+4471449747,Power BI,BI & Visualization,Technical
+4471449747,Tableau,BI & Visualization,Technical
+4471449747,Machine Learning,Data Science & ML,Technical
+4471449747,Data Warehousing,Data Engineering,Technical
+4471449747,Snowflake,Data Engineering,Technical
+4471449747,Communication,Soft Skill,Soft
+4471449747,Stakeholder Management,Soft Skill,Soft
+4461740911,Data Visualization,BI & Visualization,Technical
+4461740911,Communication,Soft Skill,Soft
+4461740911,Problem Solving,Soft Skill,Soft
+4461740911,Stakeholder Management,Soft Skill,Soft
+4469668520,Python,Programming,Technical
+4469668520,SQL,Programming,Technical
+4469668520,Excel,BI & Visualization,Technical
+4469668520,Power BI,BI & Visualization,Technical
+4469668520,Data Visualization,BI & Visualization,Technical
+4469668520,Data Modeling,Data Engineering,Technical
+4469668520,Databricks,Data Engineering,Technical
+4469668520,Microsoft Fabric,Data Engineering,Technical
+4469668520,Azure,Cloud & DevOps,Technical
+4469668520,Communication,Soft Skill,Soft
+4469668520,Problem Solving,Soft Skill,Soft
+4469668520,Stakeholder Management,Soft Skill,Soft
+4262162747,SQL,Programming,Technical
+4262162747,Statistics,Data Science & ML,Technical
+4262162747,Data Warehousing,Data Engineering,Technical
+4262162747,Communication,Soft Skill,Soft
+4262162747,Stakeholder Management,Soft Skill,Soft
+4445779726,SQL,Programming,Technical
+4445779726,Tableau,BI & Visualization,Technical
+4445779726,Statistics,Data Science & ML,Technical
+4445779726,Data Visualization,BI & Visualization,Technical
+4445779726,Data Modeling,Data Engineering,Technical
+4445779726,ETL,Data Engineering,Technical
+4445779726,Communication,Soft Skill,Soft
+4445779726,Stakeholder Management,Soft Skill,Soft
+4446725483,Statistics,Data Science & ML,Technical
+4446725483,Stakeholder Management,Soft Skill,Soft
+4464993114,Python,Programming,Technical
+4464993114,Statistics,Data Science & ML,Technical
+4464993114,Communication,Soft Skill,Soft
+4464993114,Problem Solving,Soft Skill,Soft
+4464993114,Stakeholder Management,Soft Skill,Soft
+4462887105,Python,Programming,Technical
+4462887105,SQL,Programming,Technical
+4462887105,Pandas,Data Science & ML,Technical
+4462887105,NumPy,Data Science & ML,Technical
+4462887105,Scikit-learn,Data Science & ML,Technical
+4462887105,Machine Learning,Data Science & ML,Technical
+4462887105,Statistics,Data Science & ML,Technical
+4462887105,Stakeholder Management,Soft Skill,Soft
+4466190613,Python,Programming,Technical
+4466190613,Machine Learning,Data Science & ML,Technical
+4466190613,Statistics,Data Science & ML,Technical
+4466190613,Databricks,Data Engineering,Technical
+4466190613,Snowflake,Data Engineering,Technical
+4465039419,Python,Programming,Technical
+4465039419,SQL,Programming,Technical
+4465039419,Pandas,Data Science & ML,Technical
+4465039419,NumPy,Data Science & ML,Technical
+4465039419,Scikit-learn,Data Science & ML,Technical
+4465039419,TensorFlow,Data Science & ML,Technical
+4465039419,PyTorch,Data Science & ML,Technical
+4465039419,Machine Learning,Data Science & ML,Technical
+4465039419,Deep Learning,Data Science & ML,Technical
+4465039419,NLP,Data Science & ML,Technical
+4465039419,GenAI / LLM,Data Science & ML,Technical
+4465039419,Statistics,Data Science & ML,Technical
+4465039419,Data Visualization,BI & Visualization,Technical
+4465039419,AWS,Cloud & DevOps,Technical
+4465039419,GCP,Cloud & DevOps,Technical
+4465039419,Problem Solving,Soft Skill,Soft
+4388352890,Python,Programming,Technical
+4388352890,Scikit-learn,Data Science & ML,Technical
+4388352890,TensorFlow,Data Science & ML,Technical
+4388352890,Machine Learning,Data Science & ML,Technical
+4388352890,Statistics,Data Science & ML,Technical
+4388352890,Spark,Data Engineering,Technical
+4388352890,Problem Solving,Soft Skill,Soft
+4388352890,Stakeholder Management,Soft Skill,Soft
+4464984436,Python,Programming,Technical
+4464984436,R,Programming,Technical
+4464984436,TensorFlow,Data Science & ML,Technical
+4464984436,Machine Learning,Data Science & ML,Technical
+4464984436,NLP,Data Science & ML,Technical
+4464984436,GenAI / LLM,Data Science & ML,Technical
+4464984436,Statistics,Data Science & ML,Technical
+4464984436,AWS,Cloud & DevOps,Technical
+4464984436,Azure,Cloud & DevOps,Technical
+4464984436,GCP,Cloud & DevOps,Technical
+4464984436,Communication,Soft Skill,Soft
+4464984436,Problem Solving,Soft Skill,Soft
+4464984436,Stakeholder Management,Soft Skill,Soft
+4471200762,Python,Programming,Technical
+4471200762,SQL,Programming,Technical
+4471200762,Excel,BI & Visualization,Technical
+4471200762,Machine Learning,Data Science & ML,Technical
+4471200762,Statistics,Data Science & ML,Technical
+4471200762,AWS,Cloud & DevOps,Technical
+4471200762,Azure,Cloud & DevOps,Technical
+4471200762,Kubernetes,Cloud & DevOps,Technical
+4471200762,Agile,Methods & Collaboration,Technical
+4471200762,Communication,Soft Skill,Soft
+4471200762,Stakeholder Management,Soft Skill,Soft
+4468798624,Python,Programming,Technical
+4468798624,SQL,Programming,Technical
+4468798624,R,Programming,Technical
+4468798624,Tableau,BI & Visualization,Technical
+4468798624,Pandas,Data Science & ML,Technical
+4468798624,NumPy,Data Science & ML,Technical
+4468798624,Scikit-learn,Data Science & ML,Technical
+4468798624,TensorFlow,Data Science & ML,Technical
+4468798624,PyTorch,Data Science & ML,Technical
+4468798624,Machine Learning,Data Science & ML,Technical
+4468798624,NLP,Data Science & ML,Technical
+4468798624,GenAI / LLM,Data Science & ML,Technical
+4468798624,Statistics,Data Science & ML,Technical
+4468798624,Data Visualization,BI & Visualization,Technical
+4468798624,Agile,Methods & Collaboration,Technical
+4468798624,Communication,Soft Skill,Soft
+4468798624,Problem Solving,Soft Skill,Soft
+4446251573,Python,Programming,Technical
+4446251573,Statistics,Data Science & ML,Technical
+4446251573,Data Modeling,Data Engineering,Technical
+4389911659,Statistics,Data Science & ML,Technical
+4402621132,Statistics,Data Science & ML,Technical
+4446724288,Python,Programming,Technical
+4446724288,SQL,Programming,Technical
+4446724288,Pandas,Data Science & ML,Technical
+4446724288,NumPy,Data Science & ML,Technical
+4446724288,Scikit-learn,Data Science & ML,Technical
+4446724288,Machine Learning,Data Science & ML,Technical
+4446724288,Deep Learning,Data Science & ML,Technical
+4446724288,NLP,Data Science & ML,Technical
+4446724288,Statistics,Data Science & ML,Technical
+4446724288,Spark,Data Engineering,Technical
+4446724288,Databricks,Data Engineering,Technical
+4446724288,AWS,Cloud & DevOps,Technical
+4446724288,Azure,Cloud & DevOps,Technical
+4446724288,Communication,Soft Skill,Soft
+4446724288,Problem Solving,Soft Skill,Soft
+4471716092,Python,Programming,Technical
+4471716092,R,Programming,Technical
+4471716092,Java,Programming,Technical
+4471716092,Scikit-learn,Data Science & ML,Technical
+4471716092,TensorFlow,Data Science & ML,Technical
+4471716092,PyTorch,Data Science & ML,Technical
+4471716092,Machine Learning,Data Science & ML,Technical
+4471716092,NLP,Data Science & ML,Technical
+4471716092,Statistics,Data Science & ML,Technical
+4471716092,AWS,Cloud & DevOps,Technical
+4471716092,Azure,Cloud & DevOps,Technical
+4471716092,GCP,Cloud & DevOps,Technical
+4471716092,Communication,Soft Skill,Soft
+4471716092,Problem Solving,Soft Skill,Soft
+4471716092,Stakeholder Management,Soft Skill,Soft
+4450344001,Python,Programming,Technical
+4450344001,SQL,Programming,Technical
+4450344001,Statistics,Data Science & ML,Technical
+4450344001,Communication,Soft Skill,Soft
+4450344001,Problem Solving,Soft Skill,Soft
+4468372875,Python,Programming,Technical
+4468372875,Scikit-learn,Data Science & ML,Technical
+4468372875,TensorFlow,Data Science & ML,Technical
+4468372875,Machine Learning,Data Science & ML,Technical
+4468372875,Statistics,Data Science & ML,Technical
+4468372875,AWS,Cloud & DevOps,Technical
+4468372875,Azure,Cloud & DevOps,Technical
+4468372875,GCP,Cloud & DevOps,Technical
+4456327315,Python,Programming,Technical
+4456327315,Machine Learning,Data Science & ML,Technical
+4456327315,Statistics,Data Science & ML,Technical
+4456327315,Spark,Data Engineering,Technical
+4248970933,Python,Programming,Technical
+4248970933,SQL,Programming,Technical
+4248970933,R,Programming,Technical
+4248970933,Java,Programming,Technical
+4248970933,TensorFlow,Data Science & ML,Technical
+4248970933,PyTorch,Data Science & ML,Technical
+4248970933,Machine Learning,Data Science & ML,Technical
+4248970933,Statistics,Data Science & ML,Technical
+4248970933,Data Visualization,BI & Visualization,Technical
+4248970933,Communication,Soft Skill,Soft
+4248970933,Stakeholder Management,Soft Skill,Soft
+4473543211,Python,Programming,Technical
+4473543211,SQL,Programming,Technical
+4473543211,Machine Learning,Data Science & ML,Technical
+4473543211,NLP,Data Science & ML,Technical
+4473543211,GenAI / LLM,Data Science & ML,Technical
+4473543211,Statistics,Data Science & ML,Technical
+4473543211,Stakeholder Management,Soft Skill,Soft
+4306648510,Python,Programming,Technical
+4306648510,SQL,Programming,Technical
+4306648510,R,Programming,Technical
+4306648510,Java,Programming,Technical
+4306648510,Power BI,BI & Visualization,Technical
+4306648510,Tableau,BI & Visualization,Technical
+4306648510,TensorFlow,Data Science & ML,Technical
+4306648510,PyTorch,Data Science & ML,Technical
+4306648510,Machine Learning,Data Science & ML,Technical
+4306648510,GenAI / LLM,Data Science & ML,Technical
+4306648510,Statistics,Data Science & ML,Technical
+4306648510,Data Visualization,BI & Visualization,Technical
+4306648510,Databricks,Data Engineering,Technical
+4306648510,AWS,Cloud & DevOps,Technical
+4306648510,Azure,Cloud & DevOps,Technical
+4306648510,GCP,Cloud & DevOps,Technical
+4306648510,Communication,Soft Skill,Soft
+4306648510,Problem Solving,Soft Skill,Soft
+4306648510,Stakeholder Management,Soft Skill,Soft
+4468874708,Python,Programming,Technical
+4468874708,SQL,Programming,Technical
+4468874708,R,Programming,Technical
+4468874708,Power BI,BI & Visualization,Technical
+4468874708,Tableau,BI & Visualization,Technical
+4468874708,Machine Learning,Data Science & ML,Technical
+4468874708,GenAI / LLM,Data Science & ML,Technical
+4468874708,Statistics,Data Science & ML,Technical
+4468874708,Data Visualization,BI & Visualization,Technical
+4468874708,Data Modeling,Data Engineering,Technical
+4468874708,Databricks,Data Engineering,Technical
+4468874708,Snowflake,Data Engineering,Technical
+4468874708,AWS,Cloud & DevOps,Technical
+4468874708,Azure,Cloud & DevOps,Technical
+4468874708,GCP,Cloud & DevOps,Technical
+4468874708,Git,Cloud & DevOps,Technical
+4468874708,Stakeholder Management,Soft Skill,Soft
+4438549287,Python,Programming,Technical
+4438549287,SQL,Programming,Technical
+4438549287,Scikit-learn,Data Science & ML,Technical
+4438549287,TensorFlow,Data Science & ML,Technical
+4438549287,PyTorch,Data Science & ML,Technical
+4438549287,Machine Learning,Data Science & ML,Technical
+4438549287,Deep Learning,Data Science & ML,Technical
+4438549287,NLP,Data Science & ML,Technical
+4438549287,GenAI / LLM,Data Science & ML,Technical
+4438549287,Statistics,Data Science & ML,Technical
+4438549287,AWS,Cloud & DevOps,Technical
+4438549287,Azure,Cloud & DevOps,Technical
+4438549287,GCP,Cloud & DevOps,Technical
+4438549287,Docker,Cloud & DevOps,Technical
+4438549287,Kubernetes,Cloud & DevOps,Technical
+4438549287,Git,Cloud & DevOps,Technical
+4438549287,Communication,Soft Skill,Soft
+4438549287,Problem Solving,Soft Skill,Soft
+4438549287,Stakeholder Management,Soft Skill,Soft
+4464860235,Python,Programming,Technical
+4464860235,R,Programming,Technical
+4464860235,TensorFlow,Data Science & ML,Technical
+4464860235,PyTorch,Data Science & ML,Technical
+4464860235,Machine Learning,Data Science & ML,Technical
+4464860235,Deep Learning,Data Science & ML,Technical
+4464860235,NLP,Data Science & ML,Technical
+4464860235,GenAI / LLM,Data Science & ML,Technical
+4464860235,Statistics,Data Science & ML,Technical
+4464860235,Data Modeling,Data Engineering,Technical
+4464860235,AWS,Cloud & DevOps,Technical
+4464860235,Azure,Cloud & DevOps,Technical
+4464860235,Communication,Soft Skill,Soft
+4464860235,Problem Solving,Soft Skill,Soft
+4463715525,Python,Programming,Technical
+4463715525,SQL,Programming,Technical
+4463715525,Machine Learning,Data Science & ML,Technical
+4463715525,Statistics,Data Science & ML,Technical
+4463715525,Data Visualization,BI & Visualization,Technical
+4463715525,Spark,Data Engineering,Technical
+4463715525,Databricks,Data Engineering,Technical
+4463715525,AWS,Cloud & DevOps,Technical
+4463715525,Azure,Cloud & DevOps,Technical
+4463715525,GCP,Cloud & DevOps,Technical
+4463715525,Agile,Methods & Collaboration,Technical
+4463715525,Stakeholder Management,Soft Skill,Soft
+4413455175,Python,Programming,Technical
+4413455175,SQL,Programming,Technical
+4413455175,Power BI,BI & Visualization,Technical
+4413455175,Tableau,BI & Visualization,Technical
+4413455175,Scikit-learn,Data Science & ML,Technical
+4413455175,TensorFlow,Data Science & ML,Technical
+4413455175,PyTorch,Data Science & ML,Technical
+4413455175,Machine Learning,Data Science & ML,Technical
+4413455175,Deep Learning,Data Science & ML,Technical
+4413455175,GenAI / LLM,Data Science & ML,Technical
+4413455175,Statistics,Data Science & ML,Technical
+4413455175,Data Visualization,BI & Visualization,Technical
+4413455175,Spark,Data Engineering,Technical
+4413455175,AWS,Cloud & DevOps,Technical
+4413455175,Azure,Cloud & DevOps,Technical
+4413455175,GCP,Cloud & DevOps,Technical
+4413455175,Communication,Soft Skill,Soft
+4413455175,Stakeholder Management,Soft Skill,Soft
+4448292480,Python,Programming,Technical
+4448292480,R,Programming,Technical
+4448292480,Pandas,Data Science & ML,Technical
+4448292480,NumPy,Data Science & ML,Technical
+4448292480,Scikit-learn,Data Science & ML,Technical
+4448292480,TensorFlow,Data Science & ML,Technical
+4448292480,PyTorch,Data Science & ML,Technical
+4448292480,Machine Learning,Data Science & ML,Technical
+4448292480,Deep Learning,Data Science & ML,Technical
+4448292480,NLP,Data Science & ML,Technical
+4448292480,GenAI / LLM,Data Science & ML,Technical
+4448292480,Statistics,Data Science & ML,Technical
+4448292480,AWS,Cloud & DevOps,Technical
+4448292480,Azure,Cloud & DevOps,Technical
+4448292480,GCP,Cloud & DevOps,Technical
+4466303542,Python,Programming,Technical
+4466303542,SQL,Programming,Technical
+4466303542,R,Programming,Technical
+4466303542,Machine Learning,Data Science & ML,Technical
+4466303542,Deep Learning,Data Science & ML,Technical
+4466303542,Statistics,Data Science & ML,Technical
+4466303542,Spark,Data Engineering,Technical
+4466303542,Hadoop,Data Engineering,Technical
+4456921897,Python,Programming,Technical
+4456921897,GenAI / LLM,Data Science & ML,Technical
+4456921897,Snowflake,Data Engineering,Technical
+4463250045,Python,Programming,Technical
+4463250045,Power BI,BI & Visualization,Technical
+4463250045,Tableau,BI & Visualization,Technical
+4463250045,Scikit-learn,Data Science & ML,Technical
+4463250045,PyTorch,Data Science & ML,Technical
+4463250045,Machine Learning,Data Science & ML,Technical
+4463250045,NLP,Data Science & ML,Technical
+4463250045,Statistics,Data Science & ML,Technical
+4463250045,Snowflake,Data Engineering,Technical
+4463250045,AWS,Cloud & DevOps,Technical
+4463250045,Problem Solving,Soft Skill,Soft
+4463250045,Stakeholder Management,Soft Skill,Soft
+4451539696,Python,Programming,Technical
+4451539696,SQL,Programming,Technical
+4451539696,Pandas,Data Science & ML,Technical
+4451539696,NumPy,Data Science & ML,Technical
+4451539696,Scikit-learn,Data Science & ML,Technical
+4451539696,GenAI / LLM,Data Science & ML,Technical
+4451539696,Statistics,Data Science & ML,Technical
+4451539696,Spark,Data Engineering,Technical
+4451539696,Communication,Soft Skill,Soft
+4451539696,Stakeholder Management,Soft Skill,Soft
+4407866688,Python,Programming,Technical
+4407866688,SQL,Programming,Technical
+4407866688,R,Programming,Technical
+4407866688,Power BI,BI & Visualization,Technical
+4407866688,Tableau,BI & Visualization,Technical
+4407866688,Pandas,Data Science & ML,Technical
+4407866688,Scikit-learn,Data Science & ML,Technical
+4407866688,TensorFlow,Data Science & ML,Technical
+4407866688,PyTorch,Data Science & ML,Technical
+4407866688,Machine Learning,Data Science & ML,Technical
+4407866688,NLP,Data Science & ML,Technical
+4407866688,GenAI / LLM,Data Science & ML,Technical
+4407866688,Data Visualization,BI & Visualization,Technical
+4407866688,Spark,Data Engineering,Technical
+4407866688,Kafka,Data Engineering,Technical
+4407866688,Airflow,Data Engineering,Technical
+4407866688,dbt,Data Engineering,Technical
+4407866688,AWS,Cloud & DevOps,Technical
+4407866688,Azure,Cloud & DevOps,Technical
+4407866688,GCP,Cloud & DevOps,Technical
+4407866688,Docker,Cloud & DevOps,Technical
+4407866688,Kubernetes,Cloud & DevOps,Technical
+4407866688,Communication,Soft Skill,Soft
+4407866688,Problem Solving,Soft Skill,Soft
+4407866688,Stakeholder Management,Soft Skill,Soft
+4469208780,Python,Programming,Technical
+4469208780,SQL,Programming,Technical
+4469208780,R,Programming,Technical
+4469208780,Statistics,Data Science & ML,Technical
+4469208780,Spark,Data Engineering,Technical
+4469208780,Problem Solving,Soft Skill,Soft
+4469208780,Stakeholder Management,Soft Skill,Soft
+4467543986,Python,Programming,Technical
+4467543986,R,Programming,Technical
+4467543986,TensorFlow,Data Science & ML,Technical
+4467543986,PyTorch,Data Science & ML,Technical
+4467543986,Machine Learning,Data Science & ML,Technical
+4467543986,Deep Learning,Data Science & ML,Technical
+4467543986,NLP,Data Science & ML,Technical
+4467543986,GenAI / LLM,Data Science & ML,Technical
+4467543986,Statistics,Data Science & ML,Technical
+4467543986,Data Modeling,Data Engineering,Technical
+4467543986,AWS,Cloud & DevOps,Technical
+4467543986,Azure,Cloud & DevOps,Technical
+4467543986,Communication,Soft Skill,Soft
+4467543986,Problem Solving,Soft Skill,Soft
+4423540199,Python,Programming,Technical
+4423540199,R,Programming,Technical
+4423540199,TensorFlow,Data Science & ML,Technical
+4423540199,Machine Learning,Data Science & ML,Technical
+4423540199,NLP,Data Science & ML,Technical
+4423540199,GenAI / LLM,Data Science & ML,Technical
+4423540199,Statistics,Data Science & ML,Technical
+4423540199,AWS,Cloud & DevOps,Technical
+4423540199,Azure,Cloud & DevOps,Technical
+4423540199,GCP,Cloud & DevOps,Technical
+4423540199,Communication,Soft Skill,Soft
+4423540199,Problem Solving,Soft Skill,Soft
+4423540199,Stakeholder Management,Soft Skill,Soft
+4471932781,Python,Programming,Technical
+4471932781,SQL,Programming,Technical
+4471932781,Scala,Programming,Technical
+4471932781,Statistics,Data Science & ML,Technical
+4471932781,Communication,Soft Skill,Soft
+4471932781,Stakeholder Management,Soft Skill,Soft
+4424115554,Python,Programming,Technical
+4424115554,SQL,Programming,Technical
+4424115554,Power BI,BI & Visualization,Technical
+4424115554,Pandas,Data Science & ML,Technical
+4424115554,NumPy,Data Science & ML,Technical
+4424115554,Machine Learning,Data Science & ML,Technical
+4424115554,Deep Learning,Data Science & ML,Technical
+4424115554,GenAI / LLM,Data Science & ML,Technical
+4424115554,Statistics,Data Science & ML,Technical
+4424115554,Data Modeling,Data Engineering,Technical
+4424115554,AWS,Cloud & DevOps,Technical
+4424115554,Stakeholder Management,Soft Skill,Soft
+4467998418,Python,Programming,Technical
+4467998418,R,Programming,Technical
+4467998418,Java,Programming,Technical
+4467998418,Pandas,Data Science & ML,Technical
+4467998418,NumPy,Data Science & ML,Technical
+4467998418,Scikit-learn,Data Science & ML,Technical
+4467998418,Machine Learning,Data Science & ML,Technical
+4467998418,Statistics,Data Science & ML,Technical
+4467998418,Spark,Data Engineering,Technical
+4467998418,AWS,Cloud & DevOps,Technical
+4467998418,Communication,Soft Skill,Soft
+4450669646,Python,Programming,Technical
+4450669646,SQL,Programming,Technical
+4450669646,Scikit-learn,Data Science & ML,Technical
+4450669646,TensorFlow,Data Science & ML,Technical
+4450669646,PyTorch,Data Science & ML,Technical
+4450669646,Machine Learning,Data Science & ML,Technical
+4450669646,Deep Learning,Data Science & ML,Technical
+4450669646,NLP,Data Science & ML,Technical
+4450669646,GenAI / LLM,Data Science & ML,Technical
+4450669646,Statistics,Data Science & ML,Technical
+4450669646,Data Visualization,BI & Visualization,Technical
+4450669646,Spark,Data Engineering,Technical
+4450669646,AWS,Cloud & DevOps,Technical
+4450669646,GCP,Cloud & DevOps,Technical
+4450669646,Communication,Soft Skill,Soft
+4450669646,Stakeholder Management,Soft Skill,Soft
+4473286923,Python,Programming,Technical
+4473286923,SQL,Programming,Technical
+4473286923,Pandas,Data Science & ML,Technical
+4473286923,NumPy,Data Science & ML,Technical
+4473286923,TensorFlow,Data Science & ML,Technical
+4473286923,PyTorch,Data Science & ML,Technical
+4473286923,Machine Learning,Data Science & ML,Technical
+4473286923,Deep Learning,Data Science & ML,Technical
+4473286923,NLP,Data Science & ML,Technical
+4473286923,Spark,Data Engineering,Technical
+4473286923,Kafka,Data Engineering,Technical
+4473286923,Databricks,Data Engineering,Technical
+4473286923,Snowflake,Data Engineering,Technical
+4473286923,Azure,Cloud & DevOps,Technical
+4473286923,GCP,Cloud & DevOps,Technical
+4473286923,Docker,Cloud & DevOps,Technical
+4473286923,Kubernetes,Cloud & DevOps,Technical
+4473286923,Git,Cloud & DevOps,Technical
+4473286923,Jira,Methods & Collaboration,Technical
+4469344955,Excel,BI & Visualization,Technical
+4469344955,Statistics,Data Science & ML,Technical
+4469344955,Data Visualization,BI & Visualization,Technical
+4469344955,Data Modeling,Data Engineering,Technical
+4469344955,Communication,Soft Skill,Soft
+4469344955,Problem Solving,Soft Skill,Soft
+4469344955,Stakeholder Management,Soft Skill,Soft
+4469920188,Python,Programming,Technical
+4469920188,SQL,Programming,Technical
+4469920188,R,Programming,Technical
+4469920188,Pandas,Data Science & ML,Technical
+4469920188,Scikit-learn,Data Science & ML,Technical
+4469920188,Statistics,Data Science & ML,Technical
+4469920188,AWS,Cloud & DevOps,Technical
+4469920188,Azure,Cloud & DevOps,Technical
+4469920188,GCP,Cloud & DevOps,Technical
+4469920188,Docker,Cloud & DevOps,Technical
+4469920188,Communication,Soft Skill,Soft
+4469920188,Problem Solving,Soft Skill,Soft
+4469920188,Stakeholder Management,Soft Skill,Soft
+4444238311,Python,Programming,Technical
+4444238311,R,Programming,Technical
+4444238311,Power BI,BI & Visualization,Technical
+4444238311,Tableau,BI & Visualization,Technical
+4444238311,Machine Learning,Data Science & ML,Technical
+4444238311,Statistics,Data Science & ML,Technical
+4444238311,Data Modeling,Data Engineering,Technical
+4444238311,Agile,Methods & Collaboration,Technical
+4444238311,Communication,Soft Skill,Soft
+4444238311,Problem Solving,Soft Skill,Soft
+4444238311,Stakeholder Management,Soft Skill,Soft
+4297465015,Python,Programming,Technical
+4297465015,SQL,Programming,Technical
+4297465015,Machine Learning,Data Science & ML,Technical
+4297465015,GenAI / LLM,Data Science & ML,Technical
+4297465015,Statistics,Data Science & ML,Technical
+4297465015,dbt,Data Engineering,Technical
+4297465015,Databricks,Data Engineering,Technical
+4297465015,Snowflake,Data Engineering,Technical
+4297465015,Git,Cloud & DevOps,Technical
+4297465015,Communication,Soft Skill,Soft
+4297465015,Stakeholder Management,Soft Skill,Soft
+4473206756,Python,Programming,Technical
+4473206756,SQL,Programming,Technical
+4473206756,Machine Learning,Data Science & ML,Technical
+4473206756,Statistics,Data Science & ML,Technical
+4473206756,Spark,Data Engineering,Technical
+4473206756,AWS,Cloud & DevOps,Technical
+4473206756,GCP,Cloud & DevOps,Technical
+4473206756,Communication,Soft Skill,Soft
+4473206756,Stakeholder Management,Soft Skill,Soft
+4378604246,Machine Learning,Data Science & ML,Technical
+4378604246,NLP,Data Science & ML,Technical
+4378604246,Statistics,Data Science & ML,Technical
+4378604246,Data Visualization,BI & Visualization,Technical
+4378604246,Data Modeling,Data Engineering,Technical
+4466744550,Python,Programming,Technical
+4466744550,R,Programming,Technical
+4466744550,Machine Learning,Data Science & ML,Technical
+4466744550,Deep Learning,Data Science & ML,Technical
+4466744550,Statistics,Data Science & ML,Technical
+4466744550,Data Visualization,BI & Visualization,Technical
+4466744550,Spark,Data Engineering,Technical
+4466744550,Databricks,Data Engineering,Technical
+4466744550,Stakeholder Management,Soft Skill,Soft
+4466744552,Python,Programming,Technical
+4466744552,R,Programming,Technical
+4466744552,Machine Learning,Data Science & ML,Technical
+4466744552,Deep Learning,Data Science & ML,Technical
+4466744552,Statistics,Data Science & ML,Technical
+4466744552,Data Visualization,BI & Visualization,Technical
+4466744552,Spark,Data Engineering,Technical
+4466744552,Databricks,Data Engineering,Technical
+4466744552,Stakeholder Management,Soft Skill,Soft
+4443976097,Machine Learning,Data Science & ML,Technical
+4471219066,Python,Programming,Technical
+4471219066,SQL,Programming,Technical
+4471219066,Excel,BI & Visualization,Technical
+4471219066,Machine Learning,Data Science & ML,Technical
+4471219066,Statistics,Data Science & ML,Technical
+4471219066,AWS,Cloud & DevOps,Technical
+4471219066,Azure,Cloud & DevOps,Technical
+4471219066,Kubernetes,Cloud & DevOps,Technical
+4471219066,Agile,Methods & Collaboration,Technical
+4471219066,Communication,Soft Skill,Soft
+4471219066,Stakeholder Management,Soft Skill,Soft
+4425893785,Python,Programming,Technical
+4425893785,SQL,Programming,Technical
+4425893785,Machine Learning,Data Science & ML,Technical
+4425893785,Statistics,Data Science & ML,Technical
+4453583579,Statistics,Data Science & ML,Technical
+4453583579,Communication,Soft Skill,Soft
+4453583579,Problem Solving,Soft Skill,Soft
+4453583579,Stakeholder Management,Soft Skill,Soft
+4442828772,Python,Programming,Technical
+4442828772,SQL,Programming,Technical
+4442828772,Scikit-learn,Data Science & ML,Technical
+4442828772,TensorFlow,Data Science & ML,Technical
+4442828772,PyTorch,Data Science & ML,Technical
+4442828772,Machine Learning,Data Science & ML,Technical
+4442828772,Deep Learning,Data Science & ML,Technical
+4442828772,NLP,Data Science & ML,Technical
+4442828772,GenAI / LLM,Data Science & ML,Technical
+4442828772,Statistics,Data Science & ML,Technical
+4442828772,Data Visualization,BI & Visualization,Technical
+4442828772,Spark,Data Engineering,Technical
+4442828772,AWS,Cloud & DevOps,Technical
+4442828772,Azure,Cloud & DevOps,Technical
+4442828772,GCP,Cloud & DevOps,Technical
+4442828772,Communication,Soft Skill,Soft
+4442828772,Problem Solving,Soft Skill,Soft
+4442828772,Stakeholder Management,Soft Skill,Soft
+4467976368,Excel,BI & Visualization,Technical
+4467976368,Statistics,Data Science & ML,Technical
+4467976368,Data Visualization,BI & Visualization,Technical
+4467976368,Data Modeling,Data Engineering,Technical
+4467976368,Communication,Soft Skill,Soft
+4467976368,Problem Solving,Soft Skill,Soft
+4467976368,Stakeholder Management,Soft Skill,Soft
+4466195652,SQL,Programming,Technical
+4466195652,R,Programming,Technical
+4466195652,Machine Learning,Data Science & ML,Technical
+4466195652,Statistics,Data Science & ML,Technical
+4466195652,Agile,Methods & Collaboration,Technical
+4464525645,Python,Programming,Technical
+4464525645,TensorFlow,Data Science & ML,Technical
+4464525645,PyTorch,Data Science & ML,Technical
+4464525645,Machine Learning,Data Science & ML,Technical
+4464525645,Deep Learning,Data Science & ML,Technical
+4464525645,NLP,Data Science & ML,Technical
+4464525645,GenAI / LLM,Data Science & ML,Technical
+4464525645,Statistics,Data Science & ML,Technical
+4464525645,AWS,Cloud & DevOps,Technical
+4464525645,Azure,Cloud & DevOps,Technical
+4464525645,GCP,Cloud & DevOps,Technical
+4464525645,Docker,Cloud & DevOps,Technical
+4464525645,Kubernetes,Cloud & DevOps,Technical
+4464525645,Communication,Soft Skill,Soft
+4464525645,Problem Solving,Soft Skill,Soft
+4417326819,Python,Programming,Technical
+4417326819,SQL,Programming,Technical
+4417326819,Machine Learning,Data Science & ML,Technical
+4417326819,GenAI / LLM,Data Science & ML,Technical
+4417326819,Statistics,Data Science & ML,Technical
+4417326819,ETL,Data Engineering,Technical
+4417326819,Spark,Data Engineering,Technical
+4417326819,Databricks,Data Engineering,Technical
+4417326819,GCP,Cloud & DevOps,Technical
+4417326819,Communication,Soft Skill,Soft
+4417326819,Problem Solving,Soft Skill,Soft
+4417326819,Stakeholder Management,Soft Skill,Soft
+4474151246,Python,Programming,Technical
+4474151246,SQL,Programming,Technical
+4474151246,Scikit-learn,Data Science & ML,Technical
+4474151246,TensorFlow,Data Science & ML,Technical
+4474151246,PyTorch,Data Science & ML,Technical
+4474151246,Machine Learning,Data Science & ML,Technical
+4474151246,NLP,Data Science & ML,Technical
+4474151246,Statistics,Data Science & ML,Technical
+4474151246,Airflow,Data Engineering,Technical
+4474151246,Databricks,Data Engineering,Technical
+4474151246,AWS,Cloud & DevOps,Technical
+4474151246,Azure,Cloud & DevOps,Technical
+4474151246,GCP,Cloud & DevOps,Technical
+4474151246,Docker,Cloud & DevOps,Technical
+4474151246,Kubernetes,Cloud & DevOps,Technical
+4474151246,Communication,Soft Skill,Soft
+4474151246,Problem Solving,Soft Skill,Soft
+4474151246,Stakeholder Management,Soft Skill,Soft
+4454857134,Python,Programming,Technical
+4454857134,SQL,Programming,Technical
+4454857134,R,Programming,Technical
+4454857134,Tableau,BI & Visualization,Technical
+4454857134,Pandas,Data Science & ML,Technical
+4454857134,NumPy,Data Science & ML,Technical
+4454857134,Scikit-learn,Data Science & ML,Technical
+4454857134,Machine Learning,Data Science & ML,Technical
+4454857134,GenAI / LLM,Data Science & ML,Technical
+4454857134,Statistics,Data Science & ML,Technical
+4454857134,Stakeholder Management,Soft Skill,Soft
+4473216743,Python,Programming,Technical
+4473216743,R,Programming,Technical
+4473216743,TensorFlow,Data Science & ML,Technical
+4473216743,PyTorch,Data Science & ML,Technical
+4473216743,Machine Learning,Data Science & ML,Technical
+4473216743,Statistics,Data Science & ML,Technical
+4473216743,Spark,Data Engineering,Technical
+4473216743,AWS,Cloud & DevOps,Technical
+4473216743,Azure,Cloud & DevOps,Technical
+4473216743,GCP,Cloud & DevOps,Technical
+4473216743,Stakeholder Management,Soft Skill,Soft
+4306649516,Python,Programming,Technical
+4306649516,SQL,Programming,Technical
+4306649516,R,Programming,Technical
+4306649516,Java,Programming,Technical
+4306649516,Power BI,BI & Visualization,Technical
+4306649516,Tableau,BI & Visualization,Technical
+4306649516,TensorFlow,Data Science & ML,Technical
+4306649516,PyTorch,Data Science & ML,Technical
+4306649516,Machine Learning,Data Science & ML,Technical
+4306649516,GenAI / LLM,Data Science & ML,Technical
+4306649516,Statistics,Data Science & ML,Technical
+4306649516,Data Visualization,BI & Visualization,Technical
+4306649516,Databricks,Data Engineering,Technical
+4306649516,AWS,Cloud & DevOps,Technical
+4306649516,Azure,Cloud & DevOps,Technical
+4306649516,GCP,Cloud & DevOps,Technical
+4306649516,Communication,Soft Skill,Soft
+4306649516,Problem Solving,Soft Skill,Soft
+4306649516,Stakeholder Management,Soft Skill,Soft
+4463245785,Python,Programming,Technical
+4463245785,Power BI,BI & Visualization,Technical
+4463245785,Tableau,BI & Visualization,Technical
+4463245785,Scikit-learn,Data Science & ML,Technical
+4463245785,PyTorch,Data Science & ML,Technical
+4463245785,Machine Learning,Data Science & ML,Technical
+4463245785,NLP,Data Science & ML,Technical
+4463245785,Statistics,Data Science & ML,Technical
+4463245785,Snowflake,Data Engineering,Technical
+4463245785,AWS,Cloud & DevOps,Technical
+4463245785,Problem Solving,Soft Skill,Soft
+4463245785,Stakeholder Management,Soft Skill,Soft
+4469130865,Python,Programming,Technical
+4469130865,SQL,Programming,Technical
+4469130865,Scikit-learn,Data Science & ML,Technical
+4469130865,TensorFlow,Data Science & ML,Technical
+4469130865,PyTorch,Data Science & ML,Technical
+4469130865,Machine Learning,Data Science & ML,Technical
+4469130865,GenAI / LLM,Data Science & ML,Technical
+4469130865,Statistics,Data Science & ML,Technical
+4469130865,Databricks,Data Engineering,Technical
+4469130865,Snowflake,Data Engineering,Technical
+4469130865,Docker,Cloud & DevOps,Technical
+4469130865,Kubernetes,Cloud & DevOps,Technical
+4469130865,Git,Cloud & DevOps,Technical
+4469130865,Communication,Soft Skill,Soft
+4469130865,Stakeholder Management,Soft Skill,Soft
+4465636267,Machine Learning,Data Science & ML,Technical
+4465636267,Statistics,Data Science & ML,Technical
+4381874861,Machine Learning,Data Science & ML,Technical
+4381874861,NLP,Data Science & ML,Technical
+4381874861,Statistics,Data Science & ML,Technical
+4381874861,Data Visualization,BI & Visualization,Technical
+4381874861,Data Modeling,Data Engineering,Technical
+4466509853,Python,Programming,Technical
+4466509853,SQL,Programming,Technical
+4466509853,Machine Learning,Data Science & ML,Technical
+4466509853,Statistics,Data Science & ML,Technical
+4466509853,Spark,Data Engineering,Technical
+4466509853,Hadoop,Data Engineering,Technical
+4466509853,Snowflake,Data Engineering,Technical
+4466509853,AWS,Cloud & DevOps,Technical
+4466509853,Azure,Cloud & DevOps,Technical
+4466509853,GCP,Cloud & DevOps,Technical
+4466509853,Git,Cloud & DevOps,Technical
+4466509853,Stakeholder Management,Soft Skill,Soft
+4456356753,Python,Programming,Technical
+4456356753,SQL,Programming,Technical
+4456356753,Scala,Programming,Technical
+4456356753,SSIS/SSRS,BI & Visualization,Technical
+4456356753,Data Modeling,Data Engineering,Technical
+4456356753,ETL,Data Engineering,Technical
+4456356753,Spark,Data Engineering,Technical
+4456356753,AWS,Cloud & DevOps,Technical
+4455916247,Python,Programming,Technical
+4455916247,SQL,Programming,Technical
+4455916247,Scala,Programming,Technical
+4455916247,SSIS/SSRS,BI & Visualization,Technical
+4455916247,Data Modeling,Data Engineering,Technical
+4455916247,ETL,Data Engineering,Technical
+4455916247,Spark,Data Engineering,Technical
+4455916247,Hadoop,Data Engineering,Technical
+4455916247,AWS,Cloud & DevOps,Technical
+4455916247,Stakeholder Management,Soft Skill,Soft
+4446571702,SQL,Programming,Technical
+4446571702,Data Modeling,Data Engineering,Technical
+4446571702,ETL,Data Engineering,Technical
+4446571702,Spark,Data Engineering,Technical
+4446571702,Azure,Cloud & DevOps,Technical
+4446571702,Stakeholder Management,Soft Skill,Soft
+4459687921,Python,Programming,Technical
+4459687921,SQL,Programming,Technical
+4459687921,Data Modeling,Data Engineering,Technical
+4459687921,Data Warehousing,Data Engineering,Technical
+4459687921,ETL,Data Engineering,Technical
+4459687921,Snowflake,Data Engineering,Technical
+4459687921,Azure Data Factory,Data Engineering,Technical
+4459687921,AWS,Cloud & DevOps,Technical
+4459687921,Azure,Cloud & DevOps,Technical
+4459687921,Agile,Methods & Collaboration,Technical
+4459687921,Communication,Soft Skill,Soft
+4459687921,Stakeholder Management,Soft Skill,Soft
+4471380778,Python,Programming,Technical
+4471380778,SQL,Programming,Technical
+4471380778,Data Warehousing,Data Engineering,Technical
+4471380778,ETL,Data Engineering,Technical
+4471380778,Spark,Data Engineering,Technical
+4471380778,Hadoop,Data Engineering,Technical
+4471380778,Kafka,Data Engineering,Technical
+4471380778,Airflow,Data Engineering,Technical
+4471380778,Databricks,Data Engineering,Technical
+4471380778,Snowflake,Data Engineering,Technical
+4471380778,AWS,Cloud & DevOps,Technical
+4471380778,Communication,Soft Skill,Soft
+4471380778,Problem Solving,Soft Skill,Soft
+4440164115,Python,Programming,Technical
+4440164115,SQL,Programming,Technical
+4440164115,Data Modeling,Data Engineering,Technical
+4440164115,ETL,Data Engineering,Technical
+4440164115,Spark,Data Engineering,Technical
+4440164115,Hadoop,Data Engineering,Technical
+4440164115,Databricks,Data Engineering,Technical
+4440164115,Azure Data Factory,Data Engineering,Technical
+4440164115,Azure,Cloud & DevOps,Technical
+4440164115,Communication,Soft Skill,Soft
+4440164115,Problem Solving,Soft Skill,Soft
+4440164115,Stakeholder Management,Soft Skill,Soft
+4460350337,Python,Programming,Technical
+4460350337,SQL,Programming,Technical
+4460350337,Scikit-learn,Data Science & ML,Technical
+4460350337,TensorFlow,Data Science & ML,Technical
+4460350337,Machine Learning,Data Science & ML,Technical
+4460350337,ETL,Data Engineering,Technical
+4460350337,Spark,Data Engineering,Technical
+4460350337,Airflow,Data Engineering,Technical
+4460350337,dbt,Data Engineering,Technical
+4460350337,Databricks,Data Engineering,Technical
+4460350337,Snowflake,Data Engineering,Technical
+4460350337,AWS,Cloud & DevOps,Technical
+4460350337,Azure,Cloud & DevOps,Technical
+4460350337,GCP,Cloud & DevOps,Technical
+4460350337,Docker,Cloud & DevOps,Technical
+4460350337,Kubernetes,Cloud & DevOps,Technical
+4460350337,Communication,Soft Skill,Soft
+4460350337,Problem Solving,Soft Skill,Soft
+4460350337,Stakeholder Management,Soft Skill,Soft
+4432674674,SQL,Programming,Technical
+4432674674,Data Modeling,Data Engineering,Technical
+4432674674,Data Warehousing,Data Engineering,Technical
+4432674674,ETL,Data Engineering,Technical
+4432674674,Spark,Data Engineering,Technical
+4432674674,Databricks,Data Engineering,Technical
+4432674674,AWS,Cloud & DevOps,Technical
+4432674674,Communication,Soft Skill,Soft
+4432674674,Stakeholder Management,Soft Skill,Soft
+4444799286,Python,Programming,Technical
+4444799286,SQL,Programming,Technical
+4444799286,Scala,Programming,Technical
+4444799286,Data Modeling,Data Engineering,Technical
+4444799286,ETL,Data Engineering,Technical
+4444799286,Spark,Data Engineering,Technical
+4444799286,Hadoop,Data Engineering,Technical
+4444799286,Kafka,Data Engineering,Technical
+4444799286,Databricks,Data Engineering,Technical
+4444799286,Snowflake,Data Engineering,Technical
+4444799286,Azure Data Factory,Data Engineering,Technical
+4444799286,AWS,Cloud & DevOps,Technical
+4444799286,Azure,Cloud & DevOps,Technical
+4444799286,GCP,Cloud & DevOps,Technical
+4362311711,SQL,Programming,Technical
+4362311711,Data Modeling,Data Engineering,Technical
+4362311711,ETL,Data Engineering,Technical
+4362311711,Spark,Data Engineering,Technical
+4362311711,Airflow,Data Engineering,Technical
+4362311711,Snowflake,Data Engineering,Technical
+4362311711,AWS,Cloud & DevOps,Technical
+4362311711,Agile,Methods & Collaboration,Technical
+4362311711,Communication,Soft Skill,Soft
+4362311711,Problem Solving,Soft Skill,Soft
+4362311711,Stakeholder Management,Soft Skill,Soft
+4423913467,Python,Programming,Technical
+4423913467,Spark,Data Engineering,Technical
+4423913467,Databricks,Data Engineering,Technical
+4423913467,Azure Data Factory,Data Engineering,Technical
+4423913467,Azure,Cloud & DevOps,Technical
+4423913467,Git,Cloud & DevOps,Technical
+4423913467,Problem Solving,Soft Skill,Soft
+4423913467,Stakeholder Management,Soft Skill,Soft
+4472213734,Python,Programming,Technical
+4472213734,SQL,Programming,Technical
+4472213734,Scala,Programming,Technical
+4472213734,SSIS/SSRS,BI & Visualization,Technical
+4472213734,ETL,Data Engineering,Technical
+4472213734,Spark,Data Engineering,Technical
+4472213734,Databricks,Data Engineering,Technical
+4472213734,Azure Data Factory,Data Engineering,Technical
+4472213734,Azure,Cloud & DevOps,Technical
+4472213734,Agile,Methods & Collaboration,Technical
+4472213734,Problem Solving,Soft Skill,Soft
+4465537077,Python,Programming,Technical
+4465537077,SQL,Programming,Technical
+4465537077,Pandas,Data Science & ML,Technical
+4465537077,Data Modeling,Data Engineering,Technical
+4465537077,Data Warehousing,Data Engineering,Technical
+4465537077,ETL,Data Engineering,Technical
+4465537077,Spark,Data Engineering,Technical
+4465537077,Kafka,Data Engineering,Technical
+4465537077,Databricks,Data Engineering,Technical
+4465537077,Azure,Cloud & DevOps,Technical
+4465537077,Agile,Methods & Collaboration,Technical
+4474124534,SQL,Programming,Technical
+4474124534,Power BI,BI & Visualization,Technical
+4474124534,Data Modeling,Data Engineering,Technical
+4474124534,Data Warehousing,Data Engineering,Technical
+4474124534,ETL,Data Engineering,Technical
+4474124534,Spark,Data Engineering,Technical
+4474124534,Kafka,Data Engineering,Technical
+4474124534,Databricks,Data Engineering,Technical
+4474124534,Snowflake,Data Engineering,Technical
+4474124534,Azure Data Factory,Data Engineering,Technical
+4474124534,Microsoft Fabric,Data Engineering,Technical
+4474124534,Azure,Cloud & DevOps,Technical
+4474124534,Git,Cloud & DevOps,Technical
+4474124534,Communication,Soft Skill,Soft
+4460718986,Python,Programming,Technical
+4460718986,SQL,Programming,Technical
+4460718986,Scala,Programming,Technical
+4460718986,Data Warehousing,Data Engineering,Technical
+4460718986,Spark,Data Engineering,Technical
+4460718986,Hadoop,Data Engineering,Technical
+4460718986,Airflow,Data Engineering,Technical
+4460718986,dbt,Data Engineering,Technical
+4460718986,GCP,Cloud & DevOps,Technical
+4463951950,Python,Programming,Technical
+4463951950,SQL,Programming,Technical
+4463951950,Scala,Programming,Technical
+4463951950,Data Warehousing,Data Engineering,Technical
+4463951950,Spark,Data Engineering,Technical
+4463951950,Hadoop,Data Engineering,Technical
+4463951950,Airflow,Data Engineering,Technical
+4463951950,dbt,Data Engineering,Technical
+4463951950,GCP,Cloud & DevOps,Technical
+4473741888,SQL,Programming,Technical
+4473741888,Data Modeling,Data Engineering,Technical
+4473741888,Data Warehousing,Data Engineering,Technical
+4473741888,Spark,Data Engineering,Technical
+4473741888,Databricks,Data Engineering,Technical
+4473741888,Azure,Cloud & DevOps,Technical
+4472556878,Python,Programming,Technical
+4472556878,SQL,Programming,Technical
+4472556878,GenAI / LLM,Data Science & ML,Technical
+4472556878,Data Modeling,Data Engineering,Technical
+4472556878,ETL,Data Engineering,Technical
+4472556878,Spark,Data Engineering,Technical
+4472556878,Databricks,Data Engineering,Technical
+4472556878,Azure,Cloud & DevOps,Technical
+4472556878,GCP,Cloud & DevOps,Technical
+4472556878,Git,Cloud & DevOps,Technical
+4472556878,Communication,Soft Skill,Soft
+4472556878,Problem Solving,Soft Skill,Soft
+4467739001,Python,Programming,Technical
+4467739001,SQL,Programming,Technical
+4467739001,SSIS/SSRS,BI & Visualization,Technical
+4467739001,Data Warehousing,Data Engineering,Technical
+4467739001,ETL,Data Engineering,Technical
+4467739001,Spark,Data Engineering,Technical
+4467739001,Hadoop,Data Engineering,Technical
+4467739001,Kafka,Data Engineering,Technical
+4467739001,Databricks,Data Engineering,Technical
+4467739001,Azure Data Factory,Data Engineering,Technical
+4467739001,Azure,Cloud & DevOps,Technical
+4467739001,Git,Cloud & DevOps,Technical
+4474138707,Python,Programming,Technical
+4474138707,SQL,Programming,Technical
+4474138707,Data Modeling,Data Engineering,Technical
+4474138707,Data Warehousing,Data Engineering,Technical
+4474138707,ETL,Data Engineering,Technical
+4474138707,Airflow,Data Engineering,Technical
+4474138707,dbt,Data Engineering,Technical
+4474138707,Snowflake,Data Engineering,Technical
+4474138707,AWS,Cloud & DevOps,Technical
+4474138707,Azure,Cloud & DevOps,Technical
+4474138707,GCP,Cloud & DevOps,Technical
+4474138707,Git,Cloud & DevOps,Technical
+4474138707,Stakeholder Management,Soft Skill,Soft
+4466883228,Python,Programming,Technical
+4466883228,SQL,Programming,Technical
+4466883228,Tableau,BI & Visualization,Technical
+4466883228,Data Modeling,Data Engineering,Technical
+4466883228,Data Warehousing,Data Engineering,Technical
+4466883228,ETL,Data Engineering,Technical
+4466883228,Spark,Data Engineering,Technical
+4466883228,Databricks,Data Engineering,Technical
+4466883228,Snowflake,Data Engineering,Technical
+4466883228,Azure Data Factory,Data Engineering,Technical
+4466883228,AWS,Cloud & DevOps,Technical
+4466883228,Azure,Cloud & DevOps,Technical
+4466883228,Communication,Soft Skill,Soft
+4466883228,Problem Solving,Soft Skill,Soft
+4466883228,Stakeholder Management,Soft Skill,Soft
+4438869097,Python,Programming,Technical
+4438869097,SQL,Programming,Technical
+4438869097,Statistics,Data Science & ML,Technical
+4438869097,Data Modeling,Data Engineering,Technical
+4438869097,ETL,Data Engineering,Technical
+4438869097,Spark,Data Engineering,Technical
+4438869097,Databricks,Data Engineering,Technical
+4438869097,Snowflake,Data Engineering,Technical
+4438869097,AWS,Cloud & DevOps,Technical
+4438869097,Azure,Cloud & DevOps,Technical
+4438869097,GCP,Cloud & DevOps,Technical
+4380637279,Python,Programming,Technical
+4380637279,SQL,Programming,Technical
+4380637279,Power BI,BI & Visualization,Technical
+4380637279,Tableau,BI & Visualization,Technical
+4380637279,SSIS/SSRS,BI & Visualization,Technical
+4380637279,Data Modeling,Data Engineering,Technical
+4380637279,Data Warehousing,Data Engineering,Technical
+4380637279,ETL,Data Engineering,Technical
+4380637279,Snowflake,Data Engineering,Technical
+4380637279,Azure Data Factory,Data Engineering,Technical
+4380637279,Microsoft Fabric,Data Engineering,Technical
+4380637279,AWS,Cloud & DevOps,Technical
+4380637279,Azure,Cloud & DevOps,Technical
+4380637279,GCP,Cloud & DevOps,Technical
+4380637279,Git,Cloud & DevOps,Technical
+4380637279,Communication,Soft Skill,Soft
+4380637279,Problem Solving,Soft Skill,Soft
+4380637279,Stakeholder Management,Soft Skill,Soft
+4456221047,Python,Programming,Technical
+4456221047,SQL,Programming,Technical
+4456221047,Statistics,Data Science & ML,Technical
+4456221047,Data Modeling,Data Engineering,Technical
+4456221047,ETL,Data Engineering,Technical
+4456221047,Spark,Data Engineering,Technical
+4456221047,Databricks,Data Engineering,Technical
+4456221047,Snowflake,Data Engineering,Technical
+4456221047,AWS,Cloud & DevOps,Technical
+4456221047,Azure,Cloud & DevOps,Technical
+4456221047,GCP,Cloud & DevOps,Technical
+4473230721,Python,Programming,Technical
+4473230721,SQL,Programming,Technical
+4473230721,Data Modeling,Data Engineering,Technical
+4473230721,ETL,Data Engineering,Technical
+4473230721,Spark,Data Engineering,Technical
+4473230721,Databricks,Data Engineering,Technical
+4473230721,AWS,Cloud & DevOps,Technical
+4464888149,Python,Programming,Technical
+4464888149,SQL,Programming,Technical
+4464888149,Power BI,BI & Visualization,Technical
+4464888149,DAX,BI & Visualization,Technical
+4464888149,SSIS/SSRS,BI & Visualization,Technical
+4464888149,Machine Learning,Data Science & ML,Technical
+4464888149,Data Modeling,Data Engineering,Technical
+4464888149,Data Warehousing,Data Engineering,Technical
+4464888149,ETL,Data Engineering,Technical
+4464888149,Spark,Data Engineering,Technical
+4464888149,Hadoop,Data Engineering,Technical
+4464888149,Airflow,Data Engineering,Technical
+4464888149,dbt,Data Engineering,Technical
+4464888149,Snowflake,Data Engineering,Technical
+4464888149,Azure Data Factory,Data Engineering,Technical
+4464888149,AWS,Cloud & DevOps,Technical
+4464888149,Azure,Cloud & DevOps,Technical
+4464888149,GCP,Cloud & DevOps,Technical
+4464888149,Git,Cloud & DevOps,Technical
+4464888149,Stakeholder Management,Soft Skill,Soft
+4459223912,Python,Programming,Technical
+4459223912,SQL,Programming,Technical
+4459223912,Power BI,BI & Visualization,Technical
+4459223912,Data Visualization,BI & Visualization,Technical
+4459223912,Data Modeling,Data Engineering,Technical
+4459223912,Data Warehousing,Data Engineering,Technical
+4459223912,ETL,Data Engineering,Technical
+4459223912,Spark,Data Engineering,Technical
+4459223912,Databricks,Data Engineering,Technical
+4459223912,Azure Data Factory,Data Engineering,Technical
+4459223912,Microsoft Fabric,Data Engineering,Technical
+4459223912,Azure,Cloud & DevOps,Technical
+4459223912,Git,Cloud & DevOps,Technical
+4443790191,SQL,Programming,Technical
+4443790191,Power BI,BI & Visualization,Technical
+4443790191,Data Warehousing,Data Engineering,Technical
+4443790191,Spark,Data Engineering,Technical
+4443790191,Azure Data Factory,Data Engineering,Technical
+4443790191,Azure,Cloud & DevOps,Technical
+4443790191,Git,Cloud & DevOps,Technical
+4443790191,Agile,Methods & Collaboration,Technical
+4408784128,SQL,Programming,Technical
+4408784128,Data Modeling,Data Engineering,Technical
+4408784128,ETL,Data Engineering,Technical
+4408784128,Spark,Data Engineering,Technical
+4408784128,Hadoop,Data Engineering,Technical
+4408784128,Stakeholder Management,Soft Skill,Soft
+4473112718,Data Modeling,Data Engineering,Technical
+4473112718,Data Warehousing,Data Engineering,Technical
+4473112718,ETL,Data Engineering,Technical
+4473112718,Airflow,Data Engineering,Technical
+4473112718,dbt,Data Engineering,Technical
+4473112718,Snowflake,Data Engineering,Technical
+4473112718,Communication,Soft Skill,Soft
+4473112718,Stakeholder Management,Soft Skill,Soft
+4471331360,Python,Programming,Technical
+4471331360,SQL,Programming,Technical
+4471331360,Power BI,BI & Visualization,Technical
+4471331360,Machine Learning,Data Science & ML,Technical
+4471331360,GenAI / LLM,Data Science & ML,Technical
+4471331360,Data Modeling,Data Engineering,Technical
+4471331360,Data Warehousing,Data Engineering,Technical
+4471331360,ETL,Data Engineering,Technical
+4471331360,Spark,Data Engineering,Technical
+4471331360,Databricks,Data Engineering,Technical
+4471331360,Azure Data Factory,Data Engineering,Technical
+4471331360,Microsoft Fabric,Data Engineering,Technical
+4471331360,Azure,Cloud & DevOps,Technical
+4471331360,Git,Cloud & DevOps,Technical
+4471331360,Communication,Soft Skill,Soft
+4471331360,Problem Solving,Soft Skill,Soft
+4465375369,Python,Programming,Technical
+4465375369,SQL,Programming,Technical
+4465375369,Scala,Programming,Technical
+4465375369,Data Modeling,Data Engineering,Technical
+4465375369,Data Warehousing,Data Engineering,Technical
+4465375369,ETL,Data Engineering,Technical
+4465375369,Spark,Data Engineering,Technical
+4465375369,Kafka,Data Engineering,Technical
+4465375369,Airflow,Data Engineering,Technical
+4465375369,Snowflake,Data Engineering,Technical
+4465375369,Azure Data Factory,Data Engineering,Technical
+4465375369,AWS,Cloud & DevOps,Technical
+4465375369,Azure,Cloud & DevOps,Technical
+4465375369,Git,Cloud & DevOps,Technical
+4465375369,Agile,Methods & Collaboration,Technical
+4465375369,Communication,Soft Skill,Soft
+4465375369,Problem Solving,Soft Skill,Soft
+4447853814,Python,Programming,Technical
+4447853814,Spark,Data Engineering,Technical
+4447853814,Databricks,Data Engineering,Technical
+4447853814,Azure,Cloud & DevOps,Technical
+4447853814,Agile,Methods & Collaboration,Technical
+4408778271,SQL,Programming,Technical
+4408778271,Data Modeling,Data Engineering,Technical
+4408778271,ETL,Data Engineering,Technical
+4408778271,Spark,Data Engineering,Technical
+4408778271,Hadoop,Data Engineering,Technical
+4408778271,Stakeholder Management,Soft Skill,Soft
+4466064714,Python,Programming,Technical
+4466064714,SQL,Programming,Technical
+4466064714,ETL,Data Engineering,Technical
+4466064714,Spark,Data Engineering,Technical
+4466064714,Airflow,Data Engineering,Technical
+4466064714,Databricks,Data Engineering,Technical
+4466064714,Snowflake,Data Engineering,Technical
+4466064714,Azure Data Factory,Data Engineering,Technical
+4466064714,Azure,Cloud & DevOps,Technical
+4470258024,Python,Programming,Technical
+4470258024,SQL,Programming,Technical
+4470258024,Power BI,BI & Visualization,Technical
+4470258024,Tableau,BI & Visualization,Technical
+4470258024,Machine Learning,Data Science & ML,Technical
+4470258024,GenAI / LLM,Data Science & ML,Technical
+4470258024,Data Visualization,BI & Visualization,Technical
+4470258024,Spark,Data Engineering,Technical
+4470258024,Databricks,Data Engineering,Technical
+4470258024,Snowflake,Data Engineering,Technical
+4470258024,AWS,Cloud & DevOps,Technical
+4470258024,Azure,Cloud & DevOps,Technical
+4470258024,Agile,Methods & Collaboration,Technical
+4470258024,Communication,Soft Skill,Soft
+4470258024,Problem Solving,Soft Skill,Soft
+4470258024,Stakeholder Management,Soft Skill,Soft
+4463732128,Python,Programming,Technical
+4463732128,SQL,Programming,Technical
+4463732128,Machine Learning,Data Science & ML,Technical
+4463732128,Data Modeling,Data Engineering,Technical
+4463732128,Spark,Data Engineering,Technical
+4463732128,Databricks,Data Engineering,Technical
+4463732128,Snowflake,Data Engineering,Technical
+4463732128,AWS,Cloud & DevOps,Technical
+4463732128,Azure,Cloud & DevOps,Technical
+4463732128,GCP,Cloud & DevOps,Technical
+4463732128,Communication,Soft Skill,Soft
+4463732128,Stakeholder Management,Soft Skill,Soft
+4468253707,SQL,Programming,Technical
+4468253707,Data Modeling,Data Engineering,Technical
+4468253707,Data Warehousing,Data Engineering,Technical
+4468253707,ETL,Data Engineering,Technical
+4468253707,Airflow,Data Engineering,Technical
+4468253707,dbt,Data Engineering,Technical
+4468253707,Snowflake,Data Engineering,Technical
+4468253707,Azure Data Factory,Data Engineering,Technical
+4468253707,Microsoft Fabric,Data Engineering,Technical
+4468253707,AWS,Cloud & DevOps,Technical
+4468253707,Azure,Cloud & DevOps,Technical
+4468253707,GCP,Cloud & DevOps,Technical
+4468253707,Communication,Soft Skill,Soft
+4468253707,Problem Solving,Soft Skill,Soft
+4468253707,Stakeholder Management,Soft Skill,Soft
+4462255783,Python,Programming,Technical
+4462255783,SQL,Programming,Technical
+4462255783,JavaScript,Programming,Technical
+4462255783,NLP,Data Science & ML,Technical
+4462255783,Data Modeling,Data Engineering,Technical
+4462255783,ETL,Data Engineering,Technical
+4462255783,Spark,Data Engineering,Technical
+4462255783,Airflow,Data Engineering,Technical
+4462255783,dbt,Data Engineering,Technical
+4462255783,Databricks,Data Engineering,Technical
+4462255783,Snowflake,Data Engineering,Technical
+4462255783,Azure,Cloud & DevOps,Technical
+4462255783,Git,Cloud & DevOps,Technical
+4462255783,Stakeholder Management,Soft Skill,Soft
+4397051575,Python,Programming,Technical
+4397051575,SQL,Programming,Technical
+4397051575,R,Programming,Technical
+4397051575,Machine Learning,Data Science & ML,Technical
+4397051575,Data Visualization,BI & Visualization,Technical
+4397051575,Data Modeling,Data Engineering,Technical
+4397051575,Data Warehousing,Data Engineering,Technical
+4397051575,ETL,Data Engineering,Technical
+4397051575,Spark,Data Engineering,Technical
+4397051575,Databricks,Data Engineering,Technical
+4397051575,AWS,Cloud & DevOps,Technical
+4397051575,Communication,Soft Skill,Soft
+4397051575,Problem Solving,Soft Skill,Soft
+4453583398,Python,Programming,Technical
+4453583398,SQL,Programming,Technical
+4453583398,Data Modeling,Data Engineering,Technical
+4453583398,Data Warehousing,Data Engineering,Technical
+4453583398,ETL,Data Engineering,Technical
+4453583398,dbt,Data Engineering,Technical
+4453583398,Snowflake,Data Engineering,Technical
+4453583398,Azure Data Factory,Data Engineering,Technical
+4453583398,AWS,Cloud & DevOps,Technical
+4453583398,Azure,Cloud & DevOps,Technical
+4453583398,GCP,Cloud & DevOps,Technical
+4453583398,Git,Cloud & DevOps,Technical
+4443133794,SQL,Programming,Technical
+4443133794,Power BI,BI & Visualization,Technical
+4443133794,Qlik,BI & Visualization,Technical
+4443133794,SSIS/SSRS,BI & Visualization,Technical
+4443133794,Machine Learning,Data Science & ML,Technical
+4443133794,GenAI / LLM,Data Science & ML,Technical
+4443133794,Data Warehousing,Data Engineering,Technical
+4443133794,ETL,Data Engineering,Technical
+4443133794,Spark,Data Engineering,Technical
+4443133794,Azure Data Factory,Data Engineering,Technical
+4443133794,Microsoft Fabric,Data Engineering,Technical
+4443133794,Azure,Cloud & DevOps,Technical
+4443133794,Git,Cloud & DevOps,Technical
+4443133794,Agile,Methods & Collaboration,Technical
+4443133794,Communication,Soft Skill,Soft
+4443133794,Problem Solving,Soft Skill,Soft
+4465867486,SQL,Programming,Technical
+4465867486,Power BI,BI & Visualization,Technical
+4465867486,DAX,BI & Visualization,Technical
+4465867486,Data Warehousing,Data Engineering,Technical
+4465867486,ETL,Data Engineering,Technical
+4465867486,Spark,Data Engineering,Technical
+4465867486,Databricks,Data Engineering,Technical
+4465867486,Microsoft Fabric,Data Engineering,Technical
+4465867486,AWS,Cloud & DevOps,Technical
+4465867486,Azure,Cloud & DevOps,Technical
+4465867486,GCP,Cloud & DevOps,Technical
+4465867486,Git,Cloud & DevOps,Technical
+4465867486,Communication,Soft Skill,Soft
+4465867486,Problem Solving,Soft Skill,Soft
+4465867486,Stakeholder Management,Soft Skill,Soft
+4463200351,Python,Programming,Technical
+4463200351,SQL,Programming,Technical
+4463200351,Scala,Programming,Technical
+4463200351,Data Modeling,Data Engineering,Technical
+4463200351,ETL,Data Engineering,Technical
+4463200351,dbt,Data Engineering,Technical
+4463200351,Databricks,Data Engineering,Technical
+4463200351,Azure Data Factory,Data Engineering,Technical
+4463200351,AWS,Cloud & DevOps,Technical
+4463200351,Azure,Cloud & DevOps,Technical
+4463200351,Git,Cloud & DevOps,Technical
+4463200351,Agile,Methods & Collaboration,Technical
+4463200351,Problem Solving,Soft Skill,Soft
+4467364085,SQL,Programming,Technical
+4467364085,SSIS/SSRS,BI & Visualization,Technical
+4467364085,Data Modeling,Data Engineering,Technical
+4467364085,Data Warehousing,Data Engineering,Technical
+4467364085,ETL,Data Engineering,Technical
+4467364085,Databricks,Data Engineering,Technical
+4467364085,Snowflake,Data Engineering,Technical
+4467364085,Azure Data Factory,Data Engineering,Technical
+4467364085,AWS,Cloud & DevOps,Technical
+4467364085,Azure,Cloud & DevOps,Technical
+4467364085,GCP,Cloud & DevOps,Technical
+4467364085,Git,Cloud & DevOps,Technical
+4467364085,Agile,Methods & Collaboration,Technical
+4467364085,Communication,Soft Skill,Soft
+4467364085,Problem Solving,Soft Skill,Soft
+4467364085,Stakeholder Management,Soft Skill,Soft
+4470262087,Python,Programming,Technical
+4470262087,SQL,Programming,Technical
+4470262087,Power BI,BI & Visualization,Technical
+4470262087,DAX,BI & Visualization,Technical
+4470262087,Data Modeling,Data Engineering,Technical
+4470262087,Data Warehousing,Data Engineering,Technical
+4470262087,ETL,Data Engineering,Technical
+4470262087,Spark,Data Engineering,Technical
+4470262087,Microsoft Fabric,Data Engineering,Technical
+4470262087,Azure,Cloud & DevOps,Technical
+4470262087,Git,Cloud & DevOps,Technical
+4470262087,Communication,Soft Skill,Soft
+4470262087,Stakeholder Management,Soft Skill,Soft
+4470274257,Python,Programming,Technical
+4470274257,SQL,Programming,Technical
+4470274257,ETL,Data Engineering,Technical
+4470274257,Spark,Data Engineering,Technical
+4470274257,Databricks,Data Engineering,Technical
+4470274257,Azure Data Factory,Data Engineering,Technical
+4470274257,Azure,Cloud & DevOps,Technical
+4471324805,Data Modeling,Data Engineering,Technical
+4471324805,Data Warehousing,Data Engineering,Technical
+4471324805,ETL,Data Engineering,Technical
+4471324805,AWS,Cloud & DevOps,Technical
+4465523576,Python,Programming,Technical
+4465523576,Data Visualization,BI & Visualization,Technical
+4465523576,ETL,Data Engineering,Technical
+4465523576,Spark,Data Engineering,Technical
+4465523576,AWS,Cloud & DevOps,Technical
+4467454226,Python,Programming,Technical
+4467454226,SQL,Programming,Technical
+4467454226,Machine Learning,Data Science & ML,Technical
+4467454226,Data Modeling,Data Engineering,Technical
+4467454226,ETL,Data Engineering,Technical
+4467454226,Airflow,Data Engineering,Technical
+4467454226,AWS,Cloud & DevOps,Technical
+4467454226,Problem Solving,Soft Skill,Soft
+4467454226,Stakeholder Management,Soft Skill,Soft
+4452184782,Python,Programming,Technical
+4452184782,SQL,Programming,Technical
+4452184782,Data Modeling,Data Engineering,Technical
+4452184782,Data Warehousing,Data Engineering,Technical
+4452184782,dbt,Data Engineering,Technical
+4452184782,Snowflake,Data Engineering,Technical
+4452184782,Azure,Cloud & DevOps,Technical
+4452184782,GCP,Cloud & DevOps,Technical
+4452184782,Agile,Methods & Collaboration,Technical
+4452184782,Communication,Soft Skill,Soft
+4473113682,Data Modeling,Data Engineering,Technical
+4473113682,Data Warehousing,Data Engineering,Technical
+4473113682,ETL,Data Engineering,Technical
+4473113682,Airflow,Data Engineering,Technical
+4473113682,dbt,Data Engineering,Technical
+4473113682,Snowflake,Data Engineering,Technical
+4473113682,Communication,Soft Skill,Soft
+4473113682,Stakeholder Management,Soft Skill,Soft
+4454256421,Python,Programming,Technical
+4454256421,SQL,Programming,Technical
+4454256421,Data Warehousing,Data Engineering,Technical
+4454256421,ETL,Data Engineering,Technical
+4454256421,Spark,Data Engineering,Technical
+4454256421,Databricks,Data Engineering,Technical
+4454256421,Azure Data Factory,Data Engineering,Technical
+4454256421,Azure,Cloud & DevOps,Technical
+4454256421,Git,Cloud & DevOps,Technical
+4454256421,Jira,Methods & Collaboration,Technical
+4454256421,Communication,Soft Skill,Soft
+4454256421,Problem Solving,Soft Skill,Soft
+4470185587,Python,Programming,Technical
+4470185587,SQL,Programming,Technical
+4470185587,SSIS/SSRS,BI & Visualization,Technical
+4470185587,Data Modeling,Data Engineering,Technical
+4470185587,Data Warehousing,Data Engineering,Technical
+4470185587,ETL,Data Engineering,Technical
+4470185587,Spark,Data Engineering,Technical
+4470185587,Kafka,Data Engineering,Technical
+4470185587,Airflow,Data Engineering,Technical
+4470185587,Snowflake,Data Engineering,Technical
+4470185587,AWS,Cloud & DevOps,Technical
+4470185587,GCP,Cloud & DevOps,Technical
+4470185587,Communication,Soft Skill,Soft
+4470185587,Stakeholder Management,Soft Skill,Soft
+4462946419,Spark,Data Engineering,Technical
+4462946419,Databricks,Data Engineering,Technical
+4462946419,Azure,Cloud & DevOps,Technical
+4462946419,Problem Solving,Soft Skill,Soft
+4453874208,Python,Programming,Technical
+4453874208,SQL,Programming,Technical
+4453874208,Airflow,Data Engineering,Technical
+4453874208,dbt,Data Engineering,Technical
+4453874208,Databricks,Data Engineering,Technical
+4453874208,AWS,Cloud & DevOps,Technical
+4453874208,Azure,Cloud & DevOps,Technical
+4453874208,GCP,Cloud & DevOps,Technical
+4466861017,Python,Programming,Technical
+4466861017,SQL,Programming,Technical
+4466861017,Data Modeling,Data Engineering,Technical
+4466861017,Data Warehousing,Data Engineering,Technical
+4466861017,ETL,Data Engineering,Technical
+4466861017,Spark,Data Engineering,Technical
+4466861017,Databricks,Data Engineering,Technical
+4466861017,AWS,Cloud & DevOps,Technical
+4466861017,Problem Solving,Soft Skill,Soft
+4473797277,Python,Programming,Technical
+4473797277,SQL,Programming,Technical
+4473797277,Statistics,Data Science & ML,Technical
+4473203904,Python,Programming,Technical
+4473203904,SQL,Programming,Technical
+4473203904,Machine Learning,Data Science & ML,Technical
+4473203904,Data Modeling,Data Engineering,Technical
+4473203904,ETL,Data Engineering,Technical
+4473203904,Spark,Data Engineering,Technical
+4473203904,Microsoft Fabric,Data Engineering,Technical
+4473203904,Agile,Methods & Collaboration,Technical
+4473203904,Communication,Soft Skill,Soft
+4472480871,Stakeholder Management,Soft Skill,Soft
+4462630152,Agile,Methods & Collaboration,Technical
+4462630152,Communication,Soft Skill,Soft
+4462630152,Problem Solving,Soft Skill,Soft
+4462630152,Stakeholder Management,Soft Skill,Soft
+4469175184,SQL,Programming,Technical
+4469175184,Excel,BI & Visualization,Technical
+4469175184,Power BI,BI & Visualization,Technical
+4469175184,Power Query,BI & Visualization,Technical
+4469175184,Communication,Soft Skill,Soft
+4469175184,Problem Solving,Soft Skill,Soft
+4329027888,Excel,BI & Visualization,Technical
+4329027888,Agile,Methods & Collaboration,Technical
+4329027888,Jira,Methods & Collaboration,Technical
+4329027888,Communication,Soft Skill,Soft
+4329027888,Stakeholder Management,Soft Skill,Soft
+4422244571,Agile,Methods & Collaboration,Technical
+4422244571,Communication,Soft Skill,Soft
+4469965522,SQL,Programming,Technical
+4469965522,Power BI,BI & Visualization,Technical
+4469965522,Tableau,BI & Visualization,Technical
+4469965522,Azure,Cloud & DevOps,Technical
+4469965522,Agile,Methods & Collaboration,Technical
+4469965522,Jira,Methods & Collaboration,Technical
+4469965522,Communication,Soft Skill,Soft
+4469965522,Stakeholder Management,Soft Skill,Soft
+4448835171,SQL,Programming,Technical
+4448835171,Excel,BI & Visualization,Technical
+4448835171,Communication,Soft Skill,Soft
+4448835171,Problem Solving,Soft Skill,Soft
+4448835171,Stakeholder Management,Soft Skill,Soft
+4320443381,SQL,Programming,Technical
+4320443381,Excel,BI & Visualization,Technical
+4320443381,Power BI,BI & Visualization,Technical
+4320443381,Agile,Methods & Collaboration,Technical
+4320443381,Jira,Methods & Collaboration,Technical
+4320443381,Communication,Soft Skill,Soft
+4320443381,Problem Solving,Soft Skill,Soft
+4320443381,Stakeholder Management,Soft Skill,Soft
+4472492471,Agile,Methods & Collaboration,Technical
+4472492471,Communication,Soft Skill,Soft
+4403370179,Communication,Soft Skill,Soft
+4403370179,Stakeholder Management,Soft Skill,Soft
+4469425633,Agile,Methods & Collaboration,Technical
+4469425633,Communication,Soft Skill,Soft
+4469425633,Stakeholder Management,Soft Skill,Soft
+4472546001,Azure,Cloud & DevOps,Technical
+4472546001,Agile,Methods & Collaboration,Technical
+4472546001,Jira,Methods & Collaboration,Technical
+4472546001,Communication,Soft Skill,Soft
+4472546001,Stakeholder Management,Soft Skill,Soft
+4448758665,Excel,BI & Visualization,Technical
+4448758665,Communication,Soft Skill,Soft
+4448758665,Problem Solving,Soft Skill,Soft
+4448758665,Stakeholder Management,Soft Skill,Soft
+4423005106,Agile,Methods & Collaboration,Technical
+4423005106,Communication,Soft Skill,Soft
+4423005106,Stakeholder Management,Soft Skill,Soft
+4422283594,Stakeholder Management,Soft Skill,Soft
+4473745517,Agile,Methods & Collaboration,Technical
+4473745517,Communication,Soft Skill,Soft
+4473745517,Problem Solving,Soft Skill,Soft
+4473745517,Stakeholder Management,Soft Skill,Soft
+4455996186,Agile,Methods & Collaboration,Technical
+4455996186,Jira,Methods & Collaboration,Technical
+4455996186,Communication,Soft Skill,Soft
+4455996186,Problem Solving,Soft Skill,Soft
+4455996186,Stakeholder Management,Soft Skill,Soft
+4457744027,SQL,Programming,Technical
+4457744027,Excel,BI & Visualization,Technical
+4457744027,Agile,Methods & Collaboration,Technical
+4457744027,Jira,Methods & Collaboration,Technical
+4457744027,Communication,Soft Skill,Soft
+4457744027,Problem Solving,Soft Skill,Soft
+4457744027,Stakeholder Management,Soft Skill,Soft
+4446297378,Data Modeling,Data Engineering,Technical
+4446297378,Stakeholder Management,Soft Skill,Soft
+4465640056,Agile,Methods & Collaboration,Technical
+4465640056,Jira,Methods & Collaboration,Technical
+4465640056,Communication,Soft Skill,Soft
+4448436126,Agile,Methods & Collaboration,Technical
+4448436126,Communication,Soft Skill,Soft
+4448436126,Problem Solving,Soft Skill,Soft
+4448436126,Stakeholder Management,Soft Skill,Soft
+4439591401,Agile,Methods & Collaboration,Technical
+4439591401,Communication,Soft Skill,Soft
+4439591401,Problem Solving,Soft Skill,Soft
+4439591401,Stakeholder Management,Soft Skill,Soft
+4405015035,SQL,Programming,Technical
+4405015035,Agile,Methods & Collaboration,Technical
+4405015035,Jira,Methods & Collaboration,Technical
+4405015035,Communication,Soft Skill,Soft
+4405015035,Problem Solving,Soft Skill,Soft
+4454412107,Excel,BI & Visualization,Technical
+4454412107,Agile,Methods & Collaboration,Technical
+4454412107,Communication,Soft Skill,Soft
+4454412107,Stakeholder Management,Soft Skill,Soft
+4470129918,SQL,Programming,Technical
+4470129918,Power BI,BI & Visualization,Technical
+4470129918,Data Warehousing,Data Engineering,Technical
+4470129918,Azure,Cloud & DevOps,Technical
+4470129918,Agile,Methods & Collaboration,Technical
+4470129918,Jira,Methods & Collaboration,Technical
+4470129918,Communication,Soft Skill,Soft
+4470129918,Problem Solving,Soft Skill,Soft
+4470129918,Stakeholder Management,Soft Skill,Soft
+4446446065,SQL,Programming,Technical
+4446446065,Communication,Soft Skill,Soft
+4446446065,Problem Solving,Soft Skill,Soft
+4446446065,Stakeholder Management,Soft Skill,Soft
+4474709048,Agile,Methods & Collaboration,Technical
+4474709048,Jira,Methods & Collaboration,Technical
+4474709048,Communication,Soft Skill,Soft
+4474709048,Stakeholder Management,Soft Skill,Soft
+4470919834,Agile,Methods & Collaboration,Technical
+4470919834,Communication,Soft Skill,Soft
+4470919834,Problem Solving,Soft Skill,Soft
+4470919834,Stakeholder Management,Soft Skill,Soft
+4408733839,Stakeholder Management,Soft Skill,Soft
+4472363594,Agile,Methods & Collaboration,Technical
+4472363594,Communication,Soft Skill,Soft
+4468699812,Communication,Soft Skill,Soft
+4468699812,Stakeholder Management,Soft Skill,Soft
+4458494197,Python,Programming,Technical
+4458494197,SQL,Programming,Technical
+4458494197,Java,Programming,Technical
+4458494197,JavaScript,Programming,Technical
+4458494197,Data Modeling,Data Engineering,Technical
+4458494197,Azure,Cloud & DevOps,Technical
+4458494197,Agile,Methods & Collaboration,Technical
+4458494197,Jira,Methods & Collaboration,Technical
+4458494197,Communication,Soft Skill,Soft
+4458494197,Problem Solving,Soft Skill,Soft
+4458494197,Stakeholder Management,Soft Skill,Soft
+4459043108,SQL,Programming,Technical
+4459043108,Power BI,BI & Visualization,Technical
+4459043108,Tableau,BI & Visualization,Technical
+4459043108,Data Visualization,BI & Visualization,Technical
+4459043108,Communication,Soft Skill,Soft
+4459043108,Stakeholder Management,Soft Skill,Soft
+4464853559,GenAI / LLM,Data Science & ML,Technical
+4464853559,Agile,Methods & Collaboration,Technical
+4464853559,Communication,Soft Skill,Soft
+4464853559,Stakeholder Management,Soft Skill,Soft
+4472313108,GenAI / LLM,Data Science & ML,Technical
+4472313108,Agile,Methods & Collaboration,Technical
+4472313108,Jira,Methods & Collaboration,Technical
+4472313108,Communication,Soft Skill,Soft
+4472313108,Stakeholder Management,Soft Skill,Soft
+4451530474,Excel,BI & Visualization,Technical
+4451530474,Jira,Methods & Collaboration,Technical
+4451530474,Stakeholder Management,Soft Skill,Soft
+4416228803,Communication,Soft Skill,Soft
+4463875592,Communication,Soft Skill,Soft
+4463875592,Problem Solving,Soft Skill,Soft
+4463875592,Stakeholder Management,Soft Skill,Soft
+4471728518,Communication,Soft Skill,Soft
+4471728518,Problem Solving,Soft Skill,Soft
+4473206687,Agile,Methods & Collaboration,Technical
+4473206687,Jira,Methods & Collaboration,Technical
+4473206687,Communication,Soft Skill,Soft
+4473206687,Problem Solving,Soft Skill,Soft
+4473206687,Stakeholder Management,Soft Skill,Soft
+4457477025,SQL,Programming,Technical
+4457477025,Communication,Soft Skill,Soft
+4457477025,Problem Solving,Soft Skill,Soft
+4468211150,Agile,Methods & Collaboration,Technical
+4468211150,Communication,Soft Skill,Soft
+4468211150,Problem Solving,Soft Skill,Soft
+4468211150,Stakeholder Management,Soft Skill,Soft
+4465627736,Communication,Soft Skill,Soft
+4465627736,Problem Solving,Soft Skill,Soft
+4465627736,Stakeholder Management,Soft Skill,Soft
+4471593996,Agile,Methods & Collaboration,Technical
+4471593996,Communication,Soft Skill,Soft
+4471593996,Stakeholder Management,Soft Skill,Soft
+4393549533,Communication,Soft Skill,Soft
+4393549533,Problem Solving,Soft Skill,Soft
+4393549533,Stakeholder Management,Soft Skill,Soft
+4451183451,Communication,Soft Skill,Soft
+4451183451,Problem Solving,Soft Skill,Soft
+4469022278,Power BI,BI & Visualization,Technical
+4469022278,Statistics,Data Science & ML,Technical
+4469022278,Communication,Soft Skill,Soft
+4469022278,Stakeholder Management,Soft Skill,Soft
+4443226660,Data Warehousing,Data Engineering,Technical
+4443226660,Agile,Methods & Collaboration,Technical
+4443226660,Communication,Soft Skill,Soft
+4443226660,Stakeholder Management,Soft Skill,Soft
+4471020734,SQL,Programming,Technical
+4471020734,Excel,BI & Visualization,Technical
+4471020734,Agile,Methods & Collaboration,Technical
+4471020734,Jira,Methods & Collaboration,Technical
+4471020734,Stakeholder Management,Soft Skill,Soft
+4471343406,Power BI,BI & Visualization,Technical
+4471343406,Statistics,Data Science & ML,Technical
+4471343406,Communication,Soft Skill,Soft
+4471343406,Stakeholder Management,Soft Skill,Soft
+4458634224,Communication,Soft Skill,Soft
+4458634224,Stakeholder Management,Soft Skill,Soft
+4446246813,Agile,Methods & Collaboration,Technical
+4446246813,Jira,Methods & Collaboration,Technical
+4446246813,Communication,Soft Skill,Soft
+4446246813,Stakeholder Management,Soft Skill,Soft
+4430058036,Excel,BI & Visualization,Technical
+4430058036,Agile,Methods & Collaboration,Technical
+4430058036,Communication,Soft Skill,Soft
+4430058036,Problem Solving,Soft Skill,Soft
+4468286444,SQL,Programming,Technical
+4468286444,Excel,BI & Visualization,Technical
+4468286444,Power BI,BI & Visualization,Technical
+4468286444,Tableau,BI & Visualization,Technical
+4468286444,NLP,Data Science & ML,Technical
+4468286444,GenAI / LLM,Data Science & ML,Technical
+4468286444,Data Visualization,BI & Visualization,Technical
+4468286444,Git,Cloud & DevOps,Technical
+4468286444,Agile,Methods & Collaboration,Technical
+4468286444,Jira,Methods & Collaboration,Technical
+4468286444,Stakeholder Management,Soft Skill,Soft
+4472711600,SQL,Programming,Technical
+4472711600,Agile,Methods & Collaboration,Technical
+4472711600,Jira,Methods & Collaboration,Technical
+4472711600,Communication,Soft Skill,Soft
+4472711600,Stakeholder Management,Soft Skill,Soft
+4403851161,Excel,BI & Visualization,Technical
+4403851161,Agile,Methods & Collaboration,Technical
+4403851161,Jira,Methods & Collaboration,Technical
+4403851161,Communication,Soft Skill,Soft
+4403851161,Problem Solving,Soft Skill,Soft
+4403851161,Stakeholder Management,Soft Skill,Soft
+4456737886,SQL,Programming,Technical
+4456737886,Agile,Methods & Collaboration,Technical
+4456737886,Problem Solving,Soft Skill,Soft
+4456737886,Stakeholder Management,Soft Skill,Soft
+4448564200,Communication,Soft Skill,Soft
+4448564200,Problem Solving,Soft Skill,Soft
+4448564200,Stakeholder Management,Soft Skill,Soft
+4451393568,Jira,Methods & Collaboration,Technical
+4451393568,Communication,Soft Skill,Soft
+4451393568,Stakeholder Management,Soft Skill,Soft
+4463337163,Agile,Methods & Collaboration,Technical
+4473755947,Power BI,BI & Visualization,Technical
+4473755947,Agile,Methods & Collaboration,Technical
+4473755947,Communication,Soft Skill,Soft
+4473755947,Problem Solving,Soft Skill,Soft
+4473755947,Stakeholder Management,Soft Skill,Soft
+4462938389,Databricks,Data Engineering,Technical
+4462938389,Agile,Methods & Collaboration,Technical
+4462938389,Jira,Methods & Collaboration,Technical
+4462938389,Communication,Soft Skill,Soft
+4462938389,Stakeholder Management,Soft Skill,Soft
+4400807740,SQL,Programming,Technical
+4400807740,Agile,Methods & Collaboration,Technical
+4400807740,Communication,Soft Skill,Soft
+4400807740,Problem Solving,Soft Skill,Soft
+4400807740,Stakeholder Management,Soft Skill,Soft
+4474311917,Agile,Methods & Collaboration,Technical
+4474311917,Jira,Methods & Collaboration,Technical
+4474311917,Communication,Soft Skill,Soft
+4474311917,Problem Solving,Soft Skill,Soft
+4474311917,Stakeholder Management,Soft Skill,Soft
+4468984968,Agile,Methods & Collaboration,Technical
+4468984968,Communication,Soft Skill,Soft
+4468984968,Problem Solving,Soft Skill,Soft
+4468984968,Stakeholder Management,Soft Skill,Soft
+4439033701,Excel,BI & Visualization,Technical
+4474313870,Agile,Methods & Collaboration,Technical
+4474313870,Jira,Methods & Collaboration,Technical
+4474313870,Communication,Soft Skill,Soft
+4474313870,Problem Solving,Soft Skill,Soft
+4474313870,Stakeholder Management,Soft Skill,Soft
+4470465536,SQL,Programming,Technical
+4470465536,Excel,BI & Visualization,Technical
+4470465536,Power BI,BI & Visualization,Technical
+4470465536,Data Modeling,Data Engineering,Technical
+4470465536,Agile,Methods & Collaboration,Technical
+4470465536,Jira,Methods & Collaboration,Technical
+4470465536,Communication,Soft Skill,Soft
+4470465536,Problem Solving,Soft Skill,Soft
+4470465536,Stakeholder Management,Soft Skill,Soft
+4473704176,Communication,Soft Skill,Soft
+4473704176,Stakeholder Management,Soft Skill,Soft
+4468679172,SQL,Programming,Technical
+4468679172,ETL,Data Engineering,Technical
+4468679172,Agile,Methods & Collaboration,Technical
+4468679172,Jira,Methods & Collaboration,Technical
+4468679172,Communication,Soft Skill,Soft
+4468679172,Problem Solving,Soft Skill,Soft
+4468679172,Stakeholder Management,Soft Skill,Soft
+4455873798,Azure,Cloud & DevOps,Technical
+4455873798,Agile,Methods & Collaboration,Technical
+4455873798,Jira,Methods & Collaboration,Technical
+4455873798,Communication,Soft Skill,Soft
+4455873798,Problem Solving,Soft Skill,Soft
+4455873798,Stakeholder Management,Soft Skill,Soft
+4437401485,Excel,BI & Visualization,Technical
+4437401485,Azure,Cloud & DevOps,Technical
+4437401485,Agile,Methods & Collaboration,Technical
+4437401485,Jira,Methods & Collaboration,Technical
+4437401485,Communication,Soft Skill,Soft
+4437401485,Problem Solving,Soft Skill,Soft
+4437401485,Stakeholder Management,Soft Skill,Soft
+4466089990,Agile,Methods & Collaboration,Technical
+4466089990,Jira,Methods & Collaboration,Technical
+4466089990,Communication,Soft Skill,Soft
+4466089990,Stakeholder Management,Soft Skill,Soft
+4333339905,SQL,Programming,Technical
+4333339905,Power BI,BI & Visualization,Technical
+4333339905,Tableau,BI & Visualization,Technical
+4333339905,Data Visualization,BI & Visualization,Technical
+4333339905,Agile,Methods & Collaboration,Technical
+4333339905,Jira,Methods & Collaboration,Technical
+4333339905,Communication,Soft Skill,Soft
+4333339905,Problem Solving,Soft Skill,Soft
+4333339905,Stakeholder Management,Soft Skill,Soft
+4451208987,Power BI,BI & Visualization,Technical
+4451208987,Tableau,BI & Visualization,Technical
+4451208987,Agile,Methods & Collaboration,Technical
+4451208987,Communication,Soft Skill,Soft
+4451208987,Problem Solving,Soft Skill,Soft
+4451208987,Stakeholder Management,Soft Skill,Soft
+4454235464,Agile,Methods & Collaboration,Technical
+4454235464,Communication,Soft Skill,Soft
+4454235464,Stakeholder Management,Soft Skill,Soft
+4446951214,Excel,BI & Visualization,Technical
+4446951214,Power BI,BI & Visualization,Technical
+4446951214,Tableau,BI & Visualization,Technical
+4446951214,Problem Solving,Soft Skill,Soft
+4466668014,SQL,Programming,Technical
+4466668014,Communication,Soft Skill,Soft
+4471477259,Power BI,BI & Visualization,Technical
+4471477259,Tableau,BI & Visualization,Technical
+4471477259,Data Warehousing,Data Engineering,Technical
+4471477259,Agile,Methods & Collaboration,Technical
+4471477259,Jira,Methods & Collaboration,Technical
+4471477259,Communication,Soft Skill,Soft
+4471477259,Stakeholder Management,Soft Skill,Soft
+4464831722,Azure,Cloud & DevOps,Technical
+4464831722,Agile,Methods & Collaboration,Technical
+4464831722,Jira,Methods & Collaboration,Technical
+4464831722,Stakeholder Management,Soft Skill,Soft
+4440982862,Statistics,Data Science & ML,Technical
+4440982862,Agile,Methods & Collaboration,Technical
+4440982862,Communication,Soft Skill,Soft
+4440982862,Problem Solving,Soft Skill,Soft
+4440982862,Stakeholder Management,Soft Skill,Soft
+4470847474,Data Modeling,Data Engineering,Technical
+4470847474,Databricks,Data Engineering,Technical
+4470847474,Communication,Soft Skill,Soft
+4470847474,Problem Solving,Soft Skill,Soft
+4470847474,Stakeholder Management,Soft Skill,Soft
+4461248660,SQL,Programming,Technical
+4461248660,Power BI,BI & Visualization,Technical
+4461248660,DAX,BI & Visualization,Technical
+4461248660,Data Visualization,BI & Visualization,Technical
+4461248660,Data Modeling,Data Engineering,Technical
+4461248660,Communication,Soft Skill,Soft
+4461248660,Problem Solving,Soft Skill,Soft
+4461248660,Stakeholder Management,Soft Skill,Soft
+4470689356,SQL,Programming,Technical
+4470689356,Power BI,BI & Visualization,Technical
+4470689356,DAX,BI & Visualization,Technical
+4470689356,Power Query,BI & Visualization,Technical
+4470689356,Data Modeling,Data Engineering,Technical
+4470689356,Microsoft Fabric,Data Engineering,Technical
+4470689356,Azure,Cloud & DevOps,Technical
+4470689356,Stakeholder Management,Soft Skill,Soft
+4465668004,SQL,Programming,Technical
+4465668004,Power BI,BI & Visualization,Technical
+4465668004,DAX,BI & Visualization,Technical
+4465668004,Power Query,BI & Visualization,Technical
+4465668004,Data Modeling,Data Engineering,Technical
+4465668004,Databricks,Data Engineering,Technical
+4465668004,Snowflake,Data Engineering,Technical
+4465668004,Azure Data Factory,Data Engineering,Technical
+4465668004,Azure,Cloud & DevOps,Technical
+4465668004,Jira,Methods & Collaboration,Technical
+4472328682,Python,Programming,Technical
+4472328682,SQL,Programming,Technical
+4472328682,Power BI,BI & Visualization,Technical
+4472328682,DAX,BI & Visualization,Technical
+4472328682,Power Query,BI & Visualization,Technical
+4472328682,GenAI / LLM,Data Science & ML,Technical
+4472328682,Data Warehousing,Data Engineering,Technical
+4472328682,Databricks,Data Engineering,Technical
+4472328682,Microsoft Fabric,Data Engineering,Technical
+4472328682,Azure,Cloud & DevOps,Technical
+4472328682,Git,Cloud & DevOps,Technical
+4472328682,Communication,Soft Skill,Soft
+4472328682,Stakeholder Management,Soft Skill,Soft
+4467773623,Python,Programming,Technical
+4467773623,SQL,Programming,Technical
+4467773623,Power BI,BI & Visualization,Technical
+4467773623,DAX,BI & Visualization,Technical
+4467773623,Power Query,BI & Visualization,Technical
+4467773623,Machine Learning,Data Science & ML,Technical
+4467773623,Data Modeling,Data Engineering,Technical
+4467773623,Snowflake,Data Engineering,Technical
+4467773623,Azure,Cloud & DevOps,Technical
+4467773623,Git,Cloud & DevOps,Technical
+4467773623,Communication,Soft Skill,Soft
+4467773623,Stakeholder Management,Soft Skill,Soft
+4446741083,SQL,Programming,Technical
+4446741083,Power BI,BI & Visualization,Technical
+4446741083,DAX,BI & Visualization,Technical
+4446741083,Power Query,BI & Visualization,Technical
+4446741083,Data Visualization,BI & Visualization,Technical
+4446741083,Communication,Soft Skill,Soft
+4446741083,Stakeholder Management,Soft Skill,Soft
+4248972466,SQL,Programming,Technical
+4248972466,Power BI,BI & Visualization,Technical
+4248972466,Data Visualization,BI & Visualization,Technical
+4248972466,Data Modeling,Data Engineering,Technical
+4248972466,ETL,Data Engineering,Technical
+4248972466,Databricks,Data Engineering,Technical
+4248972466,Azure,Cloud & DevOps,Technical
+4248972466,Agile,Methods & Collaboration,Technical
+4248972466,Communication,Soft Skill,Soft
+4248972466,Problem Solving,Soft Skill,Soft
+4248972466,Stakeholder Management,Soft Skill,Soft
+4474130440,SQL,Programming,Technical
+4474130440,Power BI,BI & Visualization,Technical
+4474130440,DAX,BI & Visualization,Technical
+4474130440,Power Query,BI & Visualization,Technical
+4474130440,SSIS/SSRS,BI & Visualization,Technical
+4474130440,Data Modeling,Data Engineering,Technical
+4474130440,Data Warehousing,Data Engineering,Technical
+4474130440,ETL,Data Engineering,Technical
+4474130440,Snowflake,Data Engineering,Technical
+4474130440,Azure Data Factory,Data Engineering,Technical
+4474130440,Microsoft Fabric,Data Engineering,Technical
+4474130440,Azure,Cloud & DevOps,Technical
+4474130440,Git,Cloud & DevOps,Technical
+4474130440,Communication,Soft Skill,Soft
+4474130440,Problem Solving,Soft Skill,Soft
+4350635253,Power BI,BI & Visualization,Technical
+4350635253,DAX,BI & Visualization,Technical
+4350635253,Power Query,BI & Visualization,Technical
+4350635253,Data Visualization,BI & Visualization,Technical
+4350635253,ETL,Data Engineering,Technical
+4350635253,AWS,Cloud & DevOps,Technical
+4350635253,Stakeholder Management,Soft Skill,Soft
+4458717499,SQL,Programming,Technical
+4458717499,Power BI,BI & Visualization,Technical
+4458717499,DAX,BI & Visualization,Technical
+4458717499,Data Modeling,Data Engineering,Technical
+4458717499,Microsoft Fabric,Data Engineering,Technical
+4458717499,AWS,Cloud & DevOps,Technical
+4458717499,Azure,Cloud & DevOps,Technical
+4458717499,Stakeholder Management,Soft Skill,Soft
+4248970936,SQL,Programming,Technical
+4248970936,Power BI,BI & Visualization,Technical
+4248970936,Data Visualization,BI & Visualization,Technical
+4248970936,Data Modeling,Data Engineering,Technical
+4248970936,ETL,Data Engineering,Technical
+4248970936,Databricks,Data Engineering,Technical
+4248970936,Azure,Cloud & DevOps,Technical
+4248970936,Agile,Methods & Collaboration,Technical
+4248970936,Communication,Soft Skill,Soft
+4248970936,Problem Solving,Soft Skill,Soft
+4248970936,Stakeholder Management,Soft Skill,Soft
+4440796087,SQL,Programming,Technical
+4440796087,Power BI,BI & Visualization,Technical
+4440796087,DAX,BI & Visualization,Technical
+4440796087,Power Query,BI & Visualization,Technical
+4440796087,Data Modeling,Data Engineering,Technical
+4440796087,Microsoft Fabric,Data Engineering,Technical
+4440796087,Agile,Methods & Collaboration,Technical
+4440796087,Communication,Soft Skill,Soft
+4440796087,Problem Solving,Soft Skill,Soft
+4440796087,Stakeholder Management,Soft Skill,Soft
+4470300644,Python,Programming,Technical
+4470300644,SQL,Programming,Technical
+4470300644,Power BI,BI & Visualization,Technical
+4470300644,DAX,BI & Visualization,Technical
+4470300644,Power Query,BI & Visualization,Technical
+4470300644,Tableau,BI & Visualization,Technical
+4470300644,Qlik,BI & Visualization,Technical
+4470300644,SSIS/SSRS,BI & Visualization,Technical
+4470300644,Data Modeling,Data Engineering,Technical
+4470300644,ETL,Data Engineering,Technical
+4470300644,Snowflake,Data Engineering,Technical
+4470300644,Azure Data Factory,Data Engineering,Technical
+4470300644,Azure,Cloud & DevOps,Technical
+4470300644,Agile,Methods & Collaboration,Technical
+4470300644,Communication,Soft Skill,Soft
+4470300644,Problem Solving,Soft Skill,Soft
+4470300644,Stakeholder Management,Soft Skill,Soft
+4458950793,SQL,Programming,Technical
+4458950793,Power BI,BI & Visualization,Technical
+4458950793,DAX,BI & Visualization,Technical
+4458950793,Data Visualization,BI & Visualization,Technical
+4458950793,Data Modeling,Data Engineering,Technical
+4458950793,Microsoft Fabric,Data Engineering,Technical
+4458950793,Azure,Cloud & DevOps,Technical
+4458950793,Communication,Soft Skill,Soft
+4458950793,Problem Solving,Soft Skill,Soft
+4458950793,Stakeholder Management,Soft Skill,Soft
+4470282195,SQL,Programming,Technical
+4470282195,Power BI,BI & Visualization,Technical
+4470282195,DAX,BI & Visualization,Technical
+4470282195,Power Query,BI & Visualization,Technical
+4470282195,Statistics,Data Science & ML,Technical
+4470282195,Data Modeling,Data Engineering,Technical
+4470282195,ETL,Data Engineering,Technical
+4470282195,Databricks,Data Engineering,Technical
+4470282195,Snowflake,Data Engineering,Technical
+4470282195,Azure Data Factory,Data Engineering,Technical
+4470282195,Microsoft Fabric,Data Engineering,Technical
+4470282195,Azure,Cloud & DevOps,Technical
+4470282195,Git,Cloud & DevOps,Technical
+4470282195,Agile,Methods & Collaboration,Technical
+4470282195,Problem Solving,Soft Skill,Soft
+4470282195,Stakeholder Management,Soft Skill,Soft
+4470678669,SQL,Programming,Technical
+4470678669,Power BI,BI & Visualization,Technical
+4470678669,DAX,BI & Visualization,Technical
+4470678669,Data Modeling,Data Engineering,Technical
+4470678669,Azure Data Factory,Data Engineering,Technical
+4470678669,Stakeholder Management,Soft Skill,Soft
+4464929416,SQL,Programming,Technical
+4464929416,Power BI,BI & Visualization,Technical
+4464929416,DAX,BI & Visualization,Technical
+4464929416,Power Query,BI & Visualization,Technical
+4464929416,Data Visualization,BI & Visualization,Technical
+4464929416,Data Modeling,Data Engineering,Technical
+4464929416,Data Warehousing,Data Engineering,Technical
+4464929416,Databricks,Data Engineering,Technical
+4464929416,Azure Data Factory,Data Engineering,Technical
+4464929416,Azure,Cloud & DevOps,Technical
+4464929416,Stakeholder Management,Soft Skill,Soft
+4472569914,SQL,Programming,Technical
+4472569914,Power BI,BI & Visualization,Technical
+4472569914,Power Query,BI & Visualization,Technical
+4472569914,Data Visualization,BI & Visualization,Technical
+4472569914,Data Modeling,Data Engineering,Technical
+4472569914,Data Warehousing,Data Engineering,Technical
+4472569914,Communication,Soft Skill,Soft
+4472569914,Problem Solving,Soft Skill,Soft
+4472569914,Stakeholder Management,Soft Skill,Soft
+4473732283,SQL,Programming,Technical
+4473732283,Excel,BI & Visualization,Technical
+4473732283,Power BI,BI & Visualization,Technical
+4473732283,DAX,BI & Visualization,Technical
+4473732283,Power Query,BI & Visualization,Technical
+4473732283,Data Modeling,Data Engineering,Technical
+4473732283,ETL,Data Engineering,Technical
+4473732283,Snowflake,Data Engineering,Technical
+4473732283,Azure Data Factory,Data Engineering,Technical
+4473732283,Microsoft Fabric,Data Engineering,Technical
+4473732283,Azure,Cloud & DevOps,Technical
+4449535882,SQL,Programming,Technical
+4449535882,Power BI,BI & Visualization,Technical
+4449535882,DAX,BI & Visualization,Technical
+4449535882,Power Query,BI & Visualization,Technical
+4449535882,Data Modeling,Data Engineering,Technical
+4449535882,Databricks,Data Engineering,Technical
+4449535882,Azure,Cloud & DevOps,Technical
+4449535882,Communication,Soft Skill,Soft
+4449535882,Stakeholder Management,Soft Skill,Soft
+4468904724,SQL,Programming,Technical
+4468904724,Power BI,BI & Visualization,Technical
+4468904724,DAX,BI & Visualization,Technical
+4468904724,Power Query,BI & Visualization,Technical
+4468904724,Data Modeling,Data Engineering,Technical
+4468904724,Communication,Soft Skill,Soft
+4468904724,Stakeholder Management,Soft Skill,Soft
+4473091506,SQL,Programming,Technical
+4473091506,Power BI,BI & Visualization,Technical
+4473091506,DAX,BI & Visualization,Technical
+4473091506,Data Visualization,BI & Visualization,Technical
+4473091506,Data Modeling,Data Engineering,Technical
+4473091506,Communication,Soft Skill,Soft
+4473091506,Problem Solving,Soft Skill,Soft
+4473091506,Stakeholder Management,Soft Skill,Soft
+4468594416,Python,Programming,Technical
+4468594416,SQL,Programming,Technical
+4468594416,Power BI,BI & Visualization,Technical
+4468594416,DAX,BI & Visualization,Technical
+4468594416,Power Query,BI & Visualization,Technical
+4468594416,Data Modeling,Data Engineering,Technical
+4468594416,Microsoft Fabric,Data Engineering,Technical
+4468594416,Communication,Soft Skill,Soft
+4468594416,Problem Solving,Soft Skill,Soft
+4468594416,Stakeholder Management,Soft Skill,Soft
+4470301076,SQL,Programming,Technical
+4470301076,Power BI,BI & Visualization,Technical
+4470301076,DAX,BI & Visualization,Technical
+4470301076,Power Query,BI & Visualization,Technical
+4470301076,Data Visualization,BI & Visualization,Technical
+4470301076,Data Modeling,Data Engineering,Technical
+4470301076,Microsoft Fabric,Data Engineering,Technical
+4470301076,Azure,Cloud & DevOps,Technical
+4470301076,Agile,Methods & Collaboration,Technical
+4470301076,Communication,Soft Skill,Soft
+4470301076,Stakeholder Management,Soft Skill,Soft
+4411761550,SQL,Programming,Technical
+4411761550,Excel,BI & Visualization,Technical
+4411761550,Power BI,BI & Visualization,Technical
+4411761550,DAX,BI & Visualization,Technical
+4411761550,Power Query,BI & Visualization,Technical
+4411761550,Data Modeling,Data Engineering,Technical
+4411761550,Snowflake,Data Engineering,Technical
+4411761550,Azure,Cloud & DevOps,Technical
+4411761550,Communication,Soft Skill,Soft
+4411761550,Stakeholder Management,Soft Skill,Soft
+4454416560,SQL,Programming,Technical
+4454416560,Power BI,BI & Visualization,Technical
+4454416560,DAX,BI & Visualization,Technical
+4454416560,Power Query,BI & Visualization,Technical
+4454416560,Data Modeling,Data Engineering,Technical
+4454416560,Databricks,Data Engineering,Technical
+4454416560,Azure,Cloud & DevOps,Technical
+4454416560,Communication,Soft Skill,Soft
+4454416560,Stakeholder Management,Soft Skill,Soft
+4470303601,Python,Programming,Technical
+4470303601,SQL,Programming,Technical
+4470303601,Power BI,BI & Visualization,Technical
+4470303601,DAX,BI & Visualization,Technical
+4470303601,Power Query,BI & Visualization,Technical
+4470303601,Tableau,BI & Visualization,Technical
+4470303601,Qlik,BI & Visualization,Technical
+4470303601,SSIS/SSRS,BI & Visualization,Technical
+4470303601,Data Modeling,Data Engineering,Technical
+4470303601,ETL,Data Engineering,Technical
+4470303601,Snowflake,Data Engineering,Technical
+4470303601,Azure Data Factory,Data Engineering,Technical
+4470303601,Azure,Cloud & DevOps,Technical
+4470303601,Agile,Methods & Collaboration,Technical
+4470303601,Communication,Soft Skill,Soft
+4470303601,Problem Solving,Soft Skill,Soft
+4470303601,Stakeholder Management,Soft Skill,Soft
+4474331676,Power BI,BI & Visualization,Technical
+4474331676,Power Query,BI & Visualization,Technical
+4474331676,Data Visualization,BI & Visualization,Technical
+4474331676,Data Modeling,Data Engineering,Technical
+4474331676,Snowflake,Data Engineering,Technical
+4474331676,Azure Data Factory,Data Engineering,Technical
+4474331676,Azure,Cloud & DevOps,Technical
+4471705410,Python,Programming,Technical
+4471705410,SQL,Programming,Technical
+4471705410,Power BI,BI & Visualization,Technical
+4471705410,DAX,BI & Visualization,Technical
+4471705410,Power Query,BI & Visualization,Technical
+4471705410,Tableau,BI & Visualization,Technical
+4471705410,Qlik,BI & Visualization,Technical
+4471705410,SSIS/SSRS,BI & Visualization,Technical
+4471705410,Data Modeling,Data Engineering,Technical
+4471705410,Spark,Data Engineering,Technical
+4471705410,Databricks,Data Engineering,Technical
+4471705410,Microsoft Fabric,Data Engineering,Technical
+4471705410,Azure,Cloud & DevOps,Technical
+4471705410,Git,Cloud & DevOps,Technical
+4471705410,Communication,Soft Skill,Soft
+4455440349,SQL,Programming,Technical
+4455440349,Power BI,BI & Visualization,Technical
+4455440349,DAX,BI & Visualization,Technical
+4455440349,Power Query,BI & Visualization,Technical
+4455440349,Statistics,Data Science & ML,Technical
+4455440349,Data Modeling,Data Engineering,Technical
+4455440349,Data Warehousing,Data Engineering,Technical
+4455440349,Spark,Data Engineering,Technical
+4455440349,Azure Data Factory,Data Engineering,Technical
+4455440349,Microsoft Fabric,Data Engineering,Technical
+4455440349,Azure,Cloud & DevOps,Technical
+4455440349,Communication,Soft Skill,Soft
+4455440349,Problem Solving,Soft Skill,Soft
+4455440349,Stakeholder Management,Soft Skill,Soft
+4472114132,Python,Programming,Technical
+4472114132,SQL,Programming,Technical
+4472114132,Excel,BI & Visualization,Technical
+4472114132,Power BI,BI & Visualization,Technical
+4472114132,DAX,BI & Visualization,Technical
+4472114132,Power Query,BI & Visualization,Technical
+4472114132,Machine Learning,Data Science & ML,Technical
+4472114132,Data Modeling,Data Engineering,Technical
+4472114132,ETL,Data Engineering,Technical
+4472114132,Azure Data Factory,Data Engineering,Technical
+4472114132,Azure,Cloud & DevOps,Technical
+4472114132,Git,Cloud & DevOps,Technical
+4467627570,Python,Programming,Technical
+4467627570,SQL,Programming,Technical
+4467627570,Power BI,BI & Visualization,Technical
+4467627570,DAX,BI & Visualization,Technical
+4467627570,Power Query,BI & Visualization,Technical
+4467627570,Statistics,Data Science & ML,Technical
+4467627570,Data Visualization,BI & Visualization,Technical
+4467627570,Data Modeling,Data Engineering,Technical
+4467627570,Data Warehousing,Data Engineering,Technical
+4467627570,ETL,Data Engineering,Technical
+4467627570,Databricks,Data Engineering,Technical
+4467627570,Snowflake,Data Engineering,Technical
+4467627570,Microsoft Fabric,Data Engineering,Technical
+4467627570,Azure,Cloud & DevOps,Technical
+4467627570,Git,Cloud & DevOps,Technical
+4467627570,Agile,Methods & Collaboration,Technical
+4467627570,Communication,Soft Skill,Soft
+4467627570,Problem Solving,Soft Skill,Soft
+4467627570,Stakeholder Management,Soft Skill,Soft
+4469382447,SQL,Programming,Technical
+4469382447,Power BI,BI & Visualization,Technical
+4469382447,DAX,BI & Visualization,Technical
+4469382447,Data Modeling,Data Engineering,Technical
+4469382447,Data Warehousing,Data Engineering,Technical
+4469382447,Spark,Data Engineering,Technical
+4469382447,Databricks,Data Engineering,Technical
+4469382447,Azure,Cloud & DevOps,Technical
+4469382447,Stakeholder Management,Soft Skill,Soft
+4471126760,Python,Programming,Technical
+4471126760,SQL,Programming,Technical
+4471126760,Power BI,BI & Visualization,Technical
+4471126760,DAX,BI & Visualization,Technical
+4471126760,Power Query,BI & Visualization,Technical
+4471126760,SSIS/SSRS,BI & Visualization,Technical
+4471126760,Pandas,Data Science & ML,Technical
+4471126760,Scikit-learn,Data Science & ML,Technical
+4471126760,Machine Learning,Data Science & ML,Technical
+4471126760,GenAI / LLM,Data Science & ML,Technical
+4471126760,Statistics,Data Science & ML,Technical
+4471126760,Data Modeling,Data Engineering,Technical
+4471126760,Data Warehousing,Data Engineering,Technical
+4471126760,ETL,Data Engineering,Technical
+4471126760,Databricks,Data Engineering,Technical
+4471126760,Snowflake,Data Engineering,Technical
+4471126760,Microsoft Fabric,Data Engineering,Technical
+4471126760,Azure,Cloud & DevOps,Technical
+4471126760,Communication,Soft Skill,Soft
+4472188149,SQL,Programming,Technical
+4472188149,Power BI,BI & Visualization,Technical
+4472188149,DAX,BI & Visualization,Technical
+4472188149,Power Query,BI & Visualization,Technical
+4472188149,Data Modeling,Data Engineering,Technical
+4472188149,Data Warehousing,Data Engineering,Technical
+4472188149,Agile,Methods & Collaboration,Technical
+4472188149,Problem Solving,Soft Skill,Soft
+4472188149,Stakeholder Management,Soft Skill,Soft
+4473101075,SQL,Programming,Technical
+4473101075,Power BI,BI & Visualization,Technical
+4473101075,DAX,BI & Visualization,Technical
+4473101075,Power Query,BI & Visualization,Technical
+4473101075,Data Visualization,BI & Visualization,Technical
+4473101075,Data Modeling,Data Engineering,Technical
+4473101075,Data Warehousing,Data Engineering,Technical
+4473101075,ETL,Data Engineering,Technical
+4473101075,Microsoft Fabric,Data Engineering,Technical
+4473101075,Agile,Methods & Collaboration,Technical
+4473101075,Stakeholder Management,Soft Skill,Soft
+4464444518,SQL,Programming,Technical
+4464444518,Excel,BI & Visualization,Technical
+4464444518,Power BI,BI & Visualization,Technical
+4464444518,DAX,BI & Visualization,Technical
+4464444518,Power Query,BI & Visualization,Technical
+4464444518,Data Visualization,BI & Visualization,Technical
+4464444518,Data Modeling,Data Engineering,Technical
+4464444518,Azure,Cloud & DevOps,Technical
+4464444518,Git,Cloud & DevOps,Technical
+4464444518,Agile,Methods & Collaboration,Technical
+4464444518,Communication,Soft Skill,Soft
+4464444518,Problem Solving,Soft Skill,Soft
+4464444518,Stakeholder Management,Soft Skill,Soft
+4464986020,Python,Programming,Technical
+4464986020,SQL,Programming,Technical
+4464986020,Excel,BI & Visualization,Technical
+4464986020,Power BI,BI & Visualization,Technical
+4464986020,DAX,BI & Visualization,Technical
+4464986020,Power Query,BI & Visualization,Technical
+4464986020,Data Visualization,BI & Visualization,Technical
+4464986020,Data Modeling,Data Engineering,Technical
+4464986020,Data Warehousing,Data Engineering,Technical
+4464986020,GCP,Cloud & DevOps,Technical
+4464986020,Communication,Soft Skill,Soft
+4464986020,Stakeholder Management,Soft Skill,Soft
+4465516502,Python,Programming,Technical
+4465516502,SQL,Programming,Technical
+4465516502,Power BI,BI & Visualization,Technical
+4465516502,DAX,BI & Visualization,Technical
+4465516502,Power Query,BI & Visualization,Technical
+4465516502,Data Modeling,Data Engineering,Technical
+4465516502,Azure,Cloud & DevOps,Technical
+4465516502,Git,Cloud & DevOps,Technical
+4465516502,Agile,Methods & Collaboration,Technical
+4465516502,Problem Solving,Soft Skill,Soft
+4456476177,Python,Programming,Technical
+4456476177,SQL,Programming,Technical
+4456476177,Excel,BI & Visualization,Technical
+4456476177,Power BI,BI & Visualization,Technical
+4456476177,DAX,BI & Visualization,Technical
+4456476177,Power Query,BI & Visualization,Technical
+4456476177,SSIS/SSRS,BI & Visualization,Technical
+4456476177,GenAI / LLM,Data Science & ML,Technical
+4456476177,Data Visualization,BI & Visualization,Technical
+4456476177,Data Modeling,Data Engineering,Technical
+4456476177,Data Warehousing,Data Engineering,Technical
+4456476177,ETL,Data Engineering,Technical
+4456476177,Azure Data Factory,Data Engineering,Technical
+4456476177,Microsoft Fabric,Data Engineering,Technical
+4456476177,Azure,Cloud & DevOps,Technical
+4456476177,Agile,Methods & Collaboration,Technical
+4456476177,Communication,Soft Skill,Soft
+4456476177,Problem Solving,Soft Skill,Soft
+4456476177,Stakeholder Management,Soft Skill,Soft
+4474148477,Python,Programming,Technical
+4474148477,SQL,Programming,Technical
+4474148477,Power BI,BI & Visualization,Technical
+4474148477,DAX,BI & Visualization,Technical
+4474148477,Power Query,BI & Visualization,Technical
+4474148477,Tableau,BI & Visualization,Technical
+4474148477,Data Modeling,Data Engineering,Technical
+4474148477,Spark,Data Engineering,Technical
+4474148477,Databricks,Data Engineering,Technical
+4474148477,Microsoft Fabric,Data Engineering,Technical
+4474148477,Git,Cloud & DevOps,Technical
+4474148477,Communication,Soft Skill,Soft
+4474148477,Problem Solving,Soft Skill,Soft
+4474148477,Stakeholder Management,Soft Skill,Soft
+4464591682,SQL,Programming,Technical
+4464591682,Excel,BI & Visualization,Technical
+4464591682,Power BI,BI & Visualization,Technical
+4464591682,Qlik,BI & Visualization,Technical
+4464591682,Data Modeling,Data Engineering,Technical
+4464591682,Data Warehousing,Data Engineering,Technical
+4464591682,Snowflake,Data Engineering,Technical
+4464591682,Communication,Soft Skill,Soft
+4464591682,Stakeholder Management,Soft Skill,Soft
+4471324012,SQL,Programming,Technical
+4471324012,Power BI,BI & Visualization,Technical
+4471324012,DAX,BI & Visualization,Technical
+4471324012,Power Query,BI & Visualization,Technical
+4471324012,Data Modeling,Data Engineering,Technical
+4471324012,Microsoft Fabric,Data Engineering,Technical
+4471324012,Stakeholder Management,Soft Skill,Soft
+4461523458,Python,Programming,Technical
+4461523458,SQL,Programming,Technical
+4461523458,Power BI,BI & Visualization,Technical
+4461523458,DAX,BI & Visualization,Technical
+4461523458,Power Query,BI & Visualization,Technical
+4461523458,GenAI / LLM,Data Science & ML,Technical
+4461523458,Data Modeling,Data Engineering,Technical
+4461523458,ETL,Data Engineering,Technical
+4461523458,Databricks,Data Engineering,Technical
+4461523458,Snowflake,Data Engineering,Technical
+4461523458,Azure,Cloud & DevOps,Technical
+4461523458,Agile,Methods & Collaboration,Technical
+4461523458,Communication,Soft Skill,Soft
+4461523458,Stakeholder Management,Soft Skill,Soft
+4465517611,Python,Programming,Technical
+4465517611,SQL,Programming,Technical
+4465517611,Power BI,BI & Visualization,Technical
+4465517611,DAX,BI & Visualization,Technical
+4465517611,Power Query,BI & Visualization,Technical
+4465517611,Data Modeling,Data Engineering,Technical
+4465517611,Azure,Cloud & DevOps,Technical
+4465517611,Git,Cloud & DevOps,Technical
+4465517611,Agile,Methods & Collaboration,Technical
+4465517611,Problem Solving,Soft Skill,Soft
+4469414528,SQL,Programming,Technical
+4469414528,Excel,BI & Visualization,Technical
+4469414528,Power BI,BI & Visualization,Technical
+4469414528,DAX,BI & Visualization,Technical
+4469414528,Power Query,BI & Visualization,Technical
+4469414528,SSIS/SSRS,BI & Visualization,Technical
+4469414528,Data Modeling,Data Engineering,Technical
+4469414528,Data Warehousing,Data Engineering,Technical
+4469414528,ETL,Data Engineering,Technical
+4469414528,Snowflake,Data Engineering,Technical
+4469414528,Azure Data Factory,Data Engineering,Technical
+4469414528,Microsoft Fabric,Data Engineering,Technical
+4469414528,Azure,Cloud & DevOps,Technical
+4469414528,Git,Cloud & DevOps,Technical
+4469414528,Communication,Soft Skill,Soft
+4469414528,Problem Solving,Soft Skill,Soft
+4469414528,Stakeholder Management,Soft Skill,Soft
+4446739127,Power BI,BI & Visualization,Technical
+4446739127,DAX,BI & Visualization,Technical
+4446739127,Power Query,BI & Visualization,Technical
+4446739127,Data Modeling,Data Engineering,Technical
+4446739127,ETL,Data Engineering,Technical
+4446739127,Stakeholder Management,Soft Skill,Soft
+4467855235,SQL,Programming,Technical
+4467855235,Power BI,BI & Visualization,Technical
+4467855235,DAX,BI & Visualization,Technical
+4467855235,Power Query,BI & Visualization,Technical
+4467855235,SSIS/SSRS,BI & Visualization,Technical
+4467855235,Data Modeling,Data Engineering,Technical
+4467855235,Data Warehousing,Data Engineering,Technical
+4467855235,ETL,Data Engineering,Technical
+4467855235,Snowflake,Data Engineering,Technical
+4467855235,Azure Data Factory,Data Engineering,Technical
+4467855235,Azure,Cloud & DevOps,Technical
+4467855235,Communication,Soft Skill,Soft
+4467855235,Problem Solving,Soft Skill,Soft
+4467855235,Stakeholder Management,Soft Skill,Soft
+4471739037,Python,Programming,Technical
+4471739037,SQL,Programming,Technical
+4471739037,Power BI,BI & Visualization,Technical
+4471739037,DAX,BI & Visualization,Technical
+4471739037,Power Query,BI & Visualization,Technical
+4471739037,Data Modeling,Data Engineering,Technical
+4471739037,Data Warehousing,Data Engineering,Technical
+4471739037,ETL,Data Engineering,Technical
+4471739037,Spark,Data Engineering,Technical
+4471739037,Snowflake,Data Engineering,Technical
+4471739037,Microsoft Fabric,Data Engineering,Technical
+4471739037,Stakeholder Management,Soft Skill,Soft
+4452608392,Python,Programming,Technical
+4452608392,SQL,Programming,Technical
+4452608392,Power BI,BI & Visualization,Technical
+4452608392,DAX,BI & Visualization,Technical
+4452608392,SSIS/SSRS,BI & Visualization,Technical
+4452608392,Data Modeling,Data Engineering,Technical
+4452608392,ETL,Data Engineering,Technical
+4452608392,Databricks,Data Engineering,Technical
+4452608392,Azure Data Factory,Data Engineering,Technical
+4452608392,Microsoft Fabric,Data Engineering,Technical
+4452608392,Azure,Cloud & DevOps,Technical
+4452608392,Agile,Methods & Collaboration,Technical
+4452608392,Problem Solving,Soft Skill,Soft
+4470272683,SQL,Programming,Technical
+4470272683,Power BI,BI & Visualization,Technical
+4470272683,DAX,BI & Visualization,Technical
+4470272683,Power Query,BI & Visualization,Technical
+4470272683,Statistics,Data Science & ML,Technical
+4470272683,Data Modeling,Data Engineering,Technical
+4470272683,ETL,Data Engineering,Technical
+4470272683,Databricks,Data Engineering,Technical
+4470272683,Snowflake,Data Engineering,Technical
+4470272683,Azure Data Factory,Data Engineering,Technical
+4470272683,Microsoft Fabric,Data Engineering,Technical
+4470272683,Azure,Cloud & DevOps,Technical
+4470272683,Git,Cloud & DevOps,Technical
+4470272683,Agile,Methods & Collaboration,Technical
+4470272683,Problem Solving,Soft Skill,Soft
+4470272683,Stakeholder Management,Soft Skill,Soft
+4474328754,Python,Programming,Technical
+4474328754,Power BI,BI & Visualization,Technical
+4474328754,DAX,BI & Visualization,Technical
+4474328754,Power Query,BI & Visualization,Technical
+4474328754,Data Modeling,Data Engineering,Technical
+4474328754,Git,Cloud & DevOps,Technical
+4474328754,Jira,Methods & Collaboration,Technical
+4474328754,Communication,Soft Skill,Soft
+4474328754,Stakeholder Management,Soft Skill,Soft
+4449032574,Python,Programming,Technical
+4449032574,SQL,Programming,Technical
+4449032574,Power BI,BI & Visualization,Technical
+4449032574,DAX,BI & Visualization,Technical
+4449032574,Power Query,BI & Visualization,Technical
+4449032574,Statistics,Data Science & ML,Technical
+4449032574,Data Visualization,BI & Visualization,Technical
+4449032574,Data Modeling,Data Engineering,Technical
+4449032574,Data Warehousing,Data Engineering,Technical
+4449032574,ETL,Data Engineering,Technical
+4449032574,Databricks,Data Engineering,Technical
+4449032574,Snowflake,Data Engineering,Technical
+4449032574,Microsoft Fabric,Data Engineering,Technical
+4449032574,Azure,Cloud & DevOps,Technical
+4449032574,Git,Cloud & DevOps,Technical
+4449032574,Agile,Methods & Collaboration,Technical
+4449032574,Communication,Soft Skill,Soft
+4449032574,Problem Solving,Soft Skill,Soft
+4449032574,Stakeholder Management,Soft Skill,Soft
+4469433770,SQL,Programming,Technical
+4469433770,Power BI,BI & Visualization,Technical
+4469433770,DAX,BI & Visualization,Technical
+4469433770,SSIS/SSRS,BI & Visualization,Technical
+4469433770,Data Visualization,BI & Visualization,Technical
+4469433770,Data Modeling,Data Engineering,Technical
+4469433770,Data Warehousing,Data Engineering,Technical
+4469433770,ETL,Data Engineering,Technical
+4469433770,Microsoft Fabric,Data Engineering,Technical
+4469433770,Azure,Cloud & DevOps,Technical
+4469433770,Agile,Methods & Collaboration,Technical
+4469433770,Communication,Soft Skill,Soft
+4469433770,Stakeholder Management,Soft Skill,Soft
+4442364681,Python,Programming,Technical
+4442364681,SQL,Programming,Technical
+4442364681,Excel,BI & Visualization,Technical
+4442364681,Power BI,BI & Visualization,Technical
+4442364681,DAX,BI & Visualization,Technical
+4442364681,Power Query,BI & Visualization,Technical
+4442364681,Data Visualization,BI & Visualization,Technical
+4442364681,Data Modeling,Data Engineering,Technical
+4442364681,ETL,Data Engineering,Technical
+4442364681,Snowflake,Data Engineering,Technical
+4442364681,Azure Data Factory,Data Engineering,Technical
+4442364681,Azure,Cloud & DevOps,Technical
+4442364681,Git,Cloud & DevOps,Technical
+4442364681,Communication,Soft Skill,Soft
+4442364681,Problem Solving,Soft Skill,Soft
+4442364681,Stakeholder Management,Soft Skill,Soft
+4460861560,Python,Programming,Technical
+4460861560,SQL,Programming,Technical
+4460861560,Power BI,BI & Visualization,Technical
+4460861560,DAX,BI & Visualization,Technical
+4460861560,Power Query,BI & Visualization,Technical
+4460861560,GenAI / LLM,Data Science & ML,Technical
+4460861560,Data Modeling,Data Engineering,Technical
+4460861560,ETL,Data Engineering,Technical
+4460861560,Databricks,Data Engineering,Technical
+4460861560,Snowflake,Data Engineering,Technical
+4460861560,Azure,Cloud & DevOps,Technical
+4460861560,Agile,Methods & Collaboration,Technical
+4460861560,Communication,Soft Skill,Soft
+4460861560,Stakeholder Management,Soft Skill,Soft
+4401385643,SQL,Programming,Technical
+4401385643,Power BI,BI & Visualization,Technical
+4401385643,DAX,BI & Visualization,Technical
+4401385643,Power Query,BI & Visualization,Technical
+4401385643,Data Visualization,BI & Visualization,Technical
+4401385643,Data Modeling,Data Engineering,Technical
+4471415524,SQL,Programming,Technical
+4471415524,Power BI,BI & Visualization,Technical
+4471415524,DAX,BI & Visualization,Technical
+4471415524,Power Query,BI & Visualization,Technical
+4471415524,GenAI / LLM,Data Science & ML,Technical
+4471415524,Statistics,Data Science & ML,Technical
+4471415524,Data Modeling,Data Engineering,Technical
+4471415524,ETL,Data Engineering,Technical
+4471415524,Spark,Data Engineering,Technical
+4471415524,Azure,Cloud & DevOps,Technical
+4471415524,Git,Cloud & DevOps,Technical
+4471415524,Agile,Methods & Collaboration,Technical
+4471415524,Problem Solving,Soft Skill,Soft
+4471415524,Stakeholder Management,Soft Skill,Soft
+4469863780,Python,Programming,Technical
+4469863780,SQL,Programming,Technical
+4469863780,Power BI,BI & Visualization,Technical
+4469863780,DAX,BI & Visualization,Technical
+4469863780,Power Query,BI & Visualization,Technical
+4469863780,SSIS/SSRS,BI & Visualization,Technical
+4469863780,Data Modeling,Data Engineering,Technical
+4469863780,ETL,Data Engineering,Technical
+4469863780,Azure Data Factory,Data Engineering,Technical
+4469863780,AWS,Cloud & DevOps,Technical
+4469863780,Azure,Cloud & DevOps,Technical
+4469863780,GCP,Cloud & DevOps,Technical
+4469863780,Communication,Soft Skill,Soft
+4469863780,Problem Solving,Soft Skill,Soft
+4469863780,Stakeholder Management,Soft Skill,Soft
+4462927678,Python,Programming,Technical
+4462927678,SQL,Programming,Technical
+4462927678,Power BI,BI & Visualization,Technical
+4462927678,DAX,BI & Visualization,Technical
+4462927678,Power Query,BI & Visualization,Technical
+4462927678,Statistics,Data Science & ML,Technical
+4462927678,Data Modeling,Data Engineering,Technical
+4462927678,ETL,Data Engineering,Technical
+4462927678,Databricks,Data Engineering,Technical
+4462927678,Communication,Soft Skill,Soft
+4462927678,Problem Solving,Soft Skill,Soft
+4462927678,Stakeholder Management,Soft Skill,Soft
